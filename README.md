@@ -45,12 +45,15 @@ how the playlist evolves over time.
 ## Playlists
 
 - [2010s Hits](/playlists/pretty/2010s%20Hits.md)
+- [A - Aggregate](/playlists/pretty/A%20-%20Aggregate.md)
 - [All Out 00s](/playlists/pretty/All%20Out%2000s.md)
 - [All Out 10s](/playlists/pretty/All%20Out%2010s.md)
 - [All Out 90s](/playlists/pretty/All%20Out%2090s.md)
 - [drain gang](/playlists/pretty/drain%20gang.md)
 - [hyperpop](/playlists/pretty/hyperpop.md)
 - [K-Pop Rising](/playlists/pretty/K-Pop%20Rising.md)
+- [lain](/playlists/pretty/lain.md)
+- [shazam](/playlists/pretty/shazam.md)
 - [Today's Top Hits](/playlists/pretty/Today's%20Top%20Hits.md)
 - [Top 50 - Global](/playlists/pretty/Top%2050%20-%20Global.md)
 - [Top 50 - Japan](/playlists/pretty/Top%2050%20-%20Japan.md)
@@ -59,4 +62,5 @@ how the playlist evolves over time.
 - [Top 50 - Sweden](/playlists/pretty/Top%2050%20-%20Sweden.md)
 - [Top 50 - USA](/playlists/pretty/Top%2050%20-%20USA.md)
 - [Unwind 00s](/playlists/pretty/Unwind%2000s.md)
+- [wary](/playlists/pretty/wary.md)
 - [Women of Pop](/playlists/pretty/Women%20of%20Pop.md)

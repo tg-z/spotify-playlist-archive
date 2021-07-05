@@ -44,6 +44,7 @@ how the playlist evolves over time.
 
 ## Playlists
 
+- [10 Things I Hate About You - Soundtrack](/playlists/pretty/10%20Things%20I%20Hate%20About%20You%20-%20Soundtrack.md)
 - [2010s Hits](/playlists/pretty/2010s%20Hits.md)
 - [A - Aggregate](/playlists/pretty/A%20-%20Aggregate.md)
 - [All Out 00s](/playlists/pretty/All%20Out%2000s.md)
@@ -55,6 +56,7 @@ how the playlist evolves over time.
 - [Daily Mix 2](/playlists/pretty/Daily%20Mix%202.md)
 - [Dazed and Confused(full soundtrack in order of movie)](/playlists/pretty/Dazed%20and%20Confused(full%20soundtrack%20in%20order%20of%20movie).md)
 - [drain gang](/playlists/pretty/drain%20gang.md)
+- [Empire Records (Original Motion Picture Soundtrack)](/playlists/pretty/Empire%20Records%20(Original%20Motion%20Picture%20Soundtrack).md)
 - [enhypen likes](/playlists/pretty/enhypen%20likes.md)
 - [hyperpop](/playlists/pretty/hyperpop.md)
 - [itunes](/playlists/pretty/itunes.md)

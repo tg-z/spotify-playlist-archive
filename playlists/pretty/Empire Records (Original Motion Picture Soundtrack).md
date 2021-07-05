@@ -1,0 +1,23 @@
+pretty - [cumulative](/playlists/cumulative/Empire%20Records%20(Original%20Motion%20Picture%20Soundtrack).md) - [plain](/playlists/plain/0juybCrXYJE2dRM1txS0GD) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0juybCrXYJE2dRM1txS0GD))
+
+### [Empire Records (Original Motion Picture Soundtrack)](https://open.spotify.com/playlist/0juybCrXYJE2dRM1txS0GD)
+
+> 
+
+| No. | Title | Artist(s) | Album | Length |
+|---|---|---|---|---|
+| 1 | [Til I Hear It From You](https://open.spotify.com/track/6huWrDezK7Ogc3k06iTckk) | [Gin Blossoms](https://open.spotify.com/artist/6kXp61QMZFPcKMcRPqoiVj) | [Empire Records (Original Motion Picture Soundtrack)](https://open.spotify.com/album/27YqHl98smrAG30ip7VumZ) | 3:46 |
+| 2 | [Liar](https://open.spotify.com/track/6fDKqCzXEoz5g5Z93OjgK2) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Empire Records (Original Motion Picture Soundtrack)](https://open.spotify.com/album/27YqHl98smrAG30ip7VumZ) | 2:21 |
+| 3 | [A Girl Like You](https://open.spotify.com/track/1mH8jVvXPSRThH5ttncfqQ) | [Edwyn Collins](https://open.spotify.com/artist/5Qlt3zQ63Z99mNhuun0JAT) | [Empire Records (Original Motion Picture Soundtrack)](https://open.spotify.com/album/27YqHl98smrAG30ip7VumZ) | 3:55 |
+| 4 | [Free](https://open.spotify.com/track/5o3TC8TGSFzxP5CJXuB0C0) | [The Martini's](https://open.spotify.com/artist/4PggIuR7p3jxrvz7fc1jKa) | [Empire Records (Original Motion Picture Soundtrack)](https://open.spotify.com/album/27YqHl98smrAG30ip7VumZ) | 4:24 |
+| 5 | [Crazy Life](https://open.spotify.com/track/1NGNZOXkh34vIajntZk736) | [Toad The Wet Sprocket](https://open.spotify.com/artist/4j7EVY3kuDwLPfD2jfC7LC) | [Empire Records (Original Motion Picture Soundtrack)](https://open.spotify.com/album/27YqHl98smrAG30ip7VumZ) | 4:17 |
+| 6 | [Bright As Yellow](https://open.spotify.com/track/1VtSMXwdEmsT7HVSfPyiNJ) | [The Innocence Mission](https://open.spotify.com/artist/4VcTmgGKGuJn56Ac2zNhiH) | [Empire Records (Original Motion Picture Soundtrack)](https://open.spotify.com/album/27YqHl98smrAG30ip7VumZ) | 3:32 |
+| 7 | [Circle Of Friends](https://open.spotify.com/track/063v5BwgsHAfdX8TG1wMON) | [Better Than Ezra](https://open.spotify.com/artist/4UuoJfJ9UybJft7a8E6UHX) | [Empire Records (Original Motion Picture Soundtrack)](https://open.spotify.com/album/27YqHl98smrAG30ip7VumZ) | 3:26 |
+| 8 | [I Don't Want To Live Today](https://open.spotify.com/track/03H5VHeN759y7ctfyMHK1I) | [Ape Hangers](https://open.spotify.com/artist/5sVxvdTJK0SZZswINycAOP) | [Empire Records (Original Motion Picture Soundtrack)](https://open.spotify.com/album/27YqHl98smrAG30ip7VumZ) | 3:14 |
+| 9 | [Whole Lotta Trouble](https://open.spotify.com/track/1yJpc2rAA2TiLdHQesSNzU) | [Cracker](https://open.spotify.com/artist/0ODQJS4mk7rVBJXjdqByX6) | [Empire Records (Original Motion Picture Soundtrack)](https://open.spotify.com/album/27YqHl98smrAG30ip7VumZ) | 2:27 |
+| 10 | [Ready, Steady, Go](https://open.spotify.com/track/2kEavXnvTkrJ3J2KWC9ypl) | [The Meices](https://open.spotify.com/artist/5kerNETuVVVlWUfeCzVGjK) | [Empire Records (Original Motion Picture Soundtrack)](https://open.spotify.com/album/27YqHl98smrAG30ip7VumZ) | 3:05 |
+| 11 | [What You Are](https://open.spotify.com/track/2G6N7TkOmewxRZX9H5kk0W) | [Drill](https://open.spotify.com/artist/1vLheUigC9dtxGu7gKFT6x) | [Empire Records (Original Motion Picture Soundtrack)](https://open.spotify.com/album/27YqHl98smrAG30ip7VumZ) | 4:24 |
+| 12 | [Nice Overalls](https://open.spotify.com/track/54Sp5Zsx2chUDAu4hlylRH) | [Lustre](https://open.spotify.com/artist/6VtGMedhkAkG22ZL3o41UF) | [Empire Records (Original Motion Picture Soundtrack)](https://open.spotify.com/album/27YqHl98smrAG30ip7VumZ) | 5:18 |
+| 13 | [Here It Comes Again](https://open.spotify.com/track/2kzYMbCVLfbgWxnSC7UQmg) | [PLEASE](https://open.spotify.com/artist/6h9MCVLTbONIkbVU9AONL7) | [Empire Records (Original Motion Picture Soundtrack)](https://open.spotify.com/album/27YqHl98smrAG30ip7VumZ) | 2:41 |
+| 14 | [The Ballad Of El Goodo](https://open.spotify.com/track/6ZQlr0ISteysIXKwZ0JrkL) | [Evan Dando](https://open.spotify.com/artist/4Aq4ePZT5OKPz94Fd1stey) | [Empire Records (Original Motion Picture Soundtrack)](https://open.spotify.com/album/27YqHl98smrAG30ip7VumZ) | 3:41 |
+| 15 | [Sugarhigh](https://open.spotify.com/track/7ztostfOVw4ecVpVQVj9sx) | [Coyote Shivers](https://open.spotify.com/artist/0VOE2WUj6Wq77rfft2AwqT) | [Empire Records (Original Motion Picture Soundtrack)](https://open.spotify.com/album/27YqHl98smrAG30ip7VumZ) | 2:37 |

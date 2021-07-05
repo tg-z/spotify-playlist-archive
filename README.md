@@ -1,4 +1,4 @@
-# spotify-playlist-archive [![](https://github.com/mackorone/spotify-playlist-archive/actions/workflows/main.yml/badge.svg)](https://github.com/mackorone/spotify-playlist-archive/actions/workflows/main.yml)
+# spotify-playlist-archive [![](https://github.com/tg-z/spotify-playlist-archive/actions/workflows/main.yml/badge.svg)](https://github.com/tg-z/spotify-playlist-archive/actions/workflows/main.yml)
 
 > Daily snapshots of public Spotify playlists
 

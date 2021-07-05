@@ -28,4 +28,4 @@ jobs:
           BOT_GITHUB_ACCESS_TOKEN: ${{ secrets.BOT_GITHUB_ACCESS_TOKEN }}
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
-        run: python src/main.py --prod
+        run: python3 src/main.py --prod

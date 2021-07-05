@@ -5,7 +5,7 @@ class URL:
 
     BASE = "/playlists"
     HISTORY_BASE = (
-        "https://github.githistory.xyz/mackorone/spotify-playlist-archive/"
+        "https://github.githistory.xyz/tg-z/spotify-playlist-archive/"
         "blob/main/playlists"
     )
 

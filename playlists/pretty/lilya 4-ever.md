@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/lilya%204-ever.md) - [plain](/playlists/plain/7tFMSR4ojRrAHtPl4JQvbS) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7tFMSR4ojRrAHtPl4JQvbS))
+pretty - [cumulative](/playlists/cumulative/lilya%204-ever.md) - [plain](/playlists/plain/7tFMSR4ojRrAHtPl4JQvbS) ([githistory](https://github.githistory.xyz/tg-z/spotify-playlist-archive/blob/main/playlists/plain/7tFMSR4ojRrAHtPl4JQvbS))
 
 ### [lilya 4-ever](https://open.spotify.com/playlist/7tFMSR4ojRrAHtPl4JQvbS)
 

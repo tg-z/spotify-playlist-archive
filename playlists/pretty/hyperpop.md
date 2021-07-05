@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/hyperpop.md) - [plain](/playlists/plain/37i9dQZF1DX7HOk71GPfSw) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7HOk71GPfSw))
+pretty - [cumulative](/playlists/cumulative/hyperpop.md) - [plain](/playlists/plain/37i9dQZF1DX7HOk71GPfSw) ([githistory](https://github.githistory.xyz/tg-z/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7HOk71GPfSw))
 
 ### [hyperpop](https://open.spotify.com/playlist/37i9dQZF1DX7HOk71GPfSw)
 

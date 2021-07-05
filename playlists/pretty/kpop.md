@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/kpop.md) - [plain](/playlists/plain/5wFOwKjb14nlMzOHLP1Fs0) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5wFOwKjb14nlMzOHLP1Fs0))
+pretty - [cumulative](/playlists/cumulative/kpop.md) - [plain](/playlists/plain/5wFOwKjb14nlMzOHLP1Fs0) ([githistory](https://github.githistory.xyz/tg-z/spotify-playlist-archive/blob/main/playlists/plain/5wFOwKjb14nlMzOHLP1Fs0))
 
 ### [kpop](https://open.spotify.com/playlist/5wFOwKjb14nlMzOHLP1Fs0)
 

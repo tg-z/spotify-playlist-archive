@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/Your%20Top%20Songs%202020.md) - cumulative - [plain](/playlists/plain/37i9dQZF1EM8GAgCMP0nK5) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1EM8GAgCMP0nK5))
+[pretty](/playlists/pretty/Your%20Top%20Songs%202020.md) - cumulative - [plain](/playlists/plain/37i9dQZF1EM8GAgCMP0nK5) ([githistory](https://github.githistory.xyz/tg-z/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1EM8GAgCMP0nK5))
 
 ### [Your Top Songs 2020](https://open.spotify.com/playlist/37i9dQZF1EM8GAgCMP0nK5)
 

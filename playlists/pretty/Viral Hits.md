@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/Viral%20Hits.md) - [plain](/playlists/plain/37i9dQZF1DX2L0iB23Enbq) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2L0iB23Enbq))
+pretty - [cumulative](/playlists/cumulative/Viral%20Hits.md) - [plain](/playlists/plain/37i9dQZF1DX2L0iB23Enbq) ([githistory](https://github.githistory.xyz/tg-z/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2L0iB23Enbq))
 
 ### [Viral Hits](https://open.spotify.com/playlist/37i9dQZF1DX2L0iB23Enbq)
 

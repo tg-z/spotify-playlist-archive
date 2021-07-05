@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/wary.md) - cumulative - [plain](/playlists/plain/4tbtTJCk6i9sKDeAe1TeC5) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4tbtTJCk6i9sKDeAe1TeC5))
+[pretty](/playlists/pretty/wary.md) - cumulative - [plain](/playlists/plain/4tbtTJCk6i9sKDeAe1TeC5) ([githistory](https://github.githistory.xyz/tg-z/spotify-playlist-archive/blob/main/playlists/plain/4tbtTJCk6i9sKDeAe1TeC5))
 
 ### [wary](https://open.spotify.com/playlist/4tbtTJCk6i9sKDeAe1TeC5)
 

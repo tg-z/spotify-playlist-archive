@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/This%20Is%20BTS.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX08mhnhv6g9b) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX08mhnhv6g9b))
+[pretty](/playlists/pretty/This%20Is%20BTS.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX08mhnhv6g9b) ([githistory](https://github.githistory.xyz/tg-z/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX08mhnhv6g9b))
 
 ### [This Is BTS](https://open.spotify.com/playlist/37i9dQZF1DX08mhnhv6g9b)
 

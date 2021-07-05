@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/SHE'S%20THE%20MAN%20(soundtrack).md) - [plain](/playlists/plain/2Y1XicM0c5TFXIUFtSeH2B) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2Y1XicM0c5TFXIUFtSeH2B))
+pretty - [cumulative](/playlists/cumulative/SHE'S%20THE%20MAN%20(soundtrack).md) - [plain](/playlists/plain/2Y1XicM0c5TFXIUFtSeH2B) ([githistory](https://github.githistory.xyz/tg-z/spotify-playlist-archive/blob/main/playlists/plain/2Y1XicM0c5TFXIUFtSeH2B))
 
 ### [SHE'S THE MAN (soundtrack)](https://open.spotify.com/playlist/2Y1XicM0c5TFXIUFtSeH2B)
 

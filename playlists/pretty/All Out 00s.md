@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/All%20Out%2000s.md) - [plain](/playlists/plain/37i9dQZF1DX4o1oenSJRJd) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4o1oenSJRJd))
+pretty - [cumulative](/playlists/cumulative/All%20Out%2000s.md) - [plain](/playlists/plain/37i9dQZF1DX4o1oenSJRJd) ([githistory](https://github.githistory.xyz/tg-z/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4o1oenSJRJd))
 
 ### [All Out 00s](https://open.spotify.com/playlist/37i9dQZF1DX4o1oenSJRJd)
 

@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/True%20Beauty%20OST.md) - [plain](/playlists/plain/4Cv0O3hezMeTb0UWGc9KyF) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4Cv0O3hezMeTb0UWGc9KyF))
+pretty - [cumulative](/playlists/cumulative/True%20Beauty%20OST.md) - [plain](/playlists/plain/4Cv0O3hezMeTb0UWGc9KyF) ([githistory](https://github.githistory.xyz/tg-z/spotify-playlist-archive/blob/main/playlists/plain/4Cv0O3hezMeTb0UWGc9KyF))
 
 ### [True Beauty OST](https://open.spotify.com/playlist/4Cv0O3hezMeTb0UWGc9KyF)
 

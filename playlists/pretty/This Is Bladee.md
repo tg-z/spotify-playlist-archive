@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/This%20Is%20Bladee.md) - [plain](/playlists/plain/37i9dQZF1DZ06evO1sizmS) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO1sizmS))
+pretty - [cumulative](/playlists/cumulative/This%20Is%20Bladee.md) - [plain](/playlists/plain/37i9dQZF1DZ06evO1sizmS) ([githistory](https://github.githistory.xyz/tg-z/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO1sizmS))
 
 ### [This Is Bladee](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1sizmS)
 

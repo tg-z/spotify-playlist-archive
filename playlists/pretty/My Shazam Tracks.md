@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/My%20Shazam%20Tracks.md) - [plain](/playlists/plain/7hvENN9cTNRO1GykDhFlHa) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7hvENN9cTNRO1GykDhFlHa))
+pretty - [cumulative](/playlists/cumulative/My%20Shazam%20Tracks.md) - [plain](/playlists/plain/7hvENN9cTNRO1GykDhFlHa) ([githistory](https://github.githistory.xyz/tg-z/spotify-playlist-archive/blob/main/playlists/plain/7hvENN9cTNRO1GykDhFlHa))
 
 ### [My Shazam Tracks](https://open.spotify.com/playlist/7hvENN9cTNRO1GykDhFlHa)
 

@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/Empire%20Records%20(Original%20Motion%20Picture%20Soundtrack).md) - [plain](/playlists/plain/0juybCrXYJE2dRM1txS0GD) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0juybCrXYJE2dRM1txS0GD))
+pretty - [cumulative](/playlists/cumulative/Empire%20Records%20(Original%20Motion%20Picture%20Soundtrack).md) - [plain](/playlists/plain/0juybCrXYJE2dRM1txS0GD) ([githistory](https://github.githistory.xyz/tg-z/spotify-playlist-archive/blob/main/playlists/plain/0juybCrXYJE2dRM1txS0GD))
 
 ### [Empire Records (Original Motion Picture Soundtrack)](https://open.spotify.com/playlist/0juybCrXYJE2dRM1txS0GD)
 

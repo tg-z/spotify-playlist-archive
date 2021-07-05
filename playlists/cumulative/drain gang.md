@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/drain%20gang.md) - cumulative - [plain](/playlists/plain/6Koj1vZFpLVPjMBpejUer6) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6Koj1vZFpLVPjMBpejUer6))
+[pretty](/playlists/pretty/drain%20gang.md) - cumulative - [plain](/playlists/plain/6Koj1vZFpLVPjMBpejUer6) ([githistory](https://github.githistory.xyz/tg-z/spotify-playlist-archive/blob/main/playlists/plain/6Koj1vZFpLVPjMBpejUer6))
 
 ### [drain gang](https://open.spotify.com/playlist/6Koj1vZFpLVPjMBpejUer6)
 

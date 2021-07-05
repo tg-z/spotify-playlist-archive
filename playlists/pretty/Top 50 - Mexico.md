@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/Top%2050%20-%20Mexico.md) - [plain](/playlists/plain/37i9dQZEVXbO3qyFxbkOE1) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbO3qyFxbkOE1))
+pretty - [cumulative](/playlists/cumulative/Top%2050%20-%20Mexico.md) - [plain](/playlists/plain/37i9dQZEVXbO3qyFxbkOE1) ([githistory](https://github.githistory.xyz/tg-z/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbO3qyFxbkOE1))
 
 ### [Top 50 - Mexico](https://open.spotify.com/playlist/37i9dQZEVXbO3qyFxbkOE1)
 

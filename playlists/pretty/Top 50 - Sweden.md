@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/Top%2050%20-%20Sweden.md) - [plain](/playlists/plain/37i9dQZEVXbLoATJ81JYXz) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbLoATJ81JYXz))
+pretty - [cumulative](/playlists/cumulative/Top%2050%20-%20Sweden.md) - [plain](/playlists/plain/37i9dQZEVXbLoATJ81JYXz) ([githistory](https://github.githistory.xyz/tg-z/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbLoATJ81JYXz))
 
 ### [Top 50 - Sweden](https://open.spotify.com/playlist/37i9dQZEVXbLoATJ81JYXz)
 

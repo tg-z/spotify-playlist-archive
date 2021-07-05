@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/Top%2050%20-%20South%20Korea.md) - [plain](/playlists/plain/37i9dQZEVXbNxXF4SkHj9F) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbNxXF4SkHj9F))
+pretty - [cumulative](/playlists/cumulative/Top%2050%20-%20South%20Korea.md) - [plain](/playlists/plain/37i9dQZEVXbNxXF4SkHj9F) ([githistory](https://github.githistory.xyz/tg-z/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbNxXF4SkHj9F))
 
 ### [Top 50 - South Korea](https://open.spotify.com/playlist/37i9dQZEVXbNxXF4SkHj9F)
 

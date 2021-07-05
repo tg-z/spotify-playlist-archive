@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/Repeat%20Rewind.md) - cumulative - [plain](/playlists/plain/37i9dQZF1EpBwB5nZKgoSd) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1EpBwB5nZKgoSd))
+[pretty](/playlists/pretty/Repeat%20Rewind.md) - cumulative - [plain](/playlists/plain/37i9dQZF1EpBwB5nZKgoSd) ([githistory](https://github.githistory.xyz/tg-z/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1EpBwB5nZKgoSd))
 
 ### [Repeat Rewind](https://open.spotify.com/playlist/37i9dQZF1EpBwB5nZKgoSd)
 

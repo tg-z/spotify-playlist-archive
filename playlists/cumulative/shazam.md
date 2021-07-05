@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/shazam.md) - cumulative - [plain](/playlists/plain/0fuTKFuHEFKHS0NCsiOlR5) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0fuTKFuHEFKHS0NCsiOlR5))
+[pretty](/playlists/pretty/shazam.md) - cumulative - [plain](/playlists/plain/0fuTKFuHEFKHS0NCsiOlR5) ([githistory](https://github.githistory.xyz/tg-z/spotify-playlist-archive/blob/main/playlists/plain/0fuTKFuHEFKHS0NCsiOlR5))
 
 ### [shazam](https://open.spotify.com/playlist/0fuTKFuHEFKHS0NCsiOlR5)
 

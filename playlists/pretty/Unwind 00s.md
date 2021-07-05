@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/Unwind%2000s.md) - [plain](/playlists/plain/37i9dQZF1DX07vKD9l5Yfi) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX07vKD9l5Yfi))
+pretty - [cumulative](/playlists/cumulative/Unwind%2000s.md) - [plain](/playlists/plain/37i9dQZF1DX07vKD9l5Yfi) ([githistory](https://github.githistory.xyz/tg-z/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX07vKD9l5Yfi))
 
 ### [Unwind 00s](https://open.spotify.com/playlist/37i9dQZF1DX07vKD9l5Yfi)
 

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/On%20Record.md) - cumulative - [plain](/playlists/plain/37i9dQZF1EOIbXDRHLM4Q1) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1EOIbXDRHLM4Q1))
+[pretty](/playlists/pretty/On%20Record.md) - cumulative - [plain](/playlists/plain/37i9dQZF1EOIbXDRHLM4Q1) ([githistory](https://github.githistory.xyz/tg-z/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1EOIbXDRHLM4Q1))
 
 ### [On Record](https://open.spotify.com/playlist/37i9dQZF1EOIbXDRHLM4Q1)
 

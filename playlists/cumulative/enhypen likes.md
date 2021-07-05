@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/enhypen%20likes.md) - cumulative - [plain](/playlists/plain/7xgB4xspx3W93zENpvuvmG) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7xgB4xspx3W93zENpvuvmG))
+[pretty](/playlists/pretty/enhypen%20likes.md) - cumulative - [plain](/playlists/plain/7xgB4xspx3W93zENpvuvmG) ([githistory](https://github.githistory.xyz/tg-z/spotify-playlist-archive/blob/main/playlists/plain/7xgB4xspx3W93zENpvuvmG))
 
 ### [enhypen likes](https://open.spotify.com/playlist/7xgB4xspx3W93zENpvuvmG)
 

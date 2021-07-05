@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/10%20Things%20I%20Hate%20About%20You%20-%20Soundtrack.md) - [plain](/playlists/plain/1nEkyAwvRpjWeCTl1Vdn0x) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1nEkyAwvRpjWeCTl1Vdn0x))
+pretty - [cumulative](/playlists/cumulative/10%20Things%20I%20Hate%20About%20You%20-%20Soundtrack.md) - [plain](/playlists/plain/1nEkyAwvRpjWeCTl1Vdn0x) ([githistory](https://github.githistory.xyz/tg-z/spotify-playlist-archive/blob/main/playlists/plain/1nEkyAwvRpjWeCTl1Vdn0x))
 
 ### [10 Things I Hate About You - Soundtrack](https://open.spotify.com/playlist/1nEkyAwvRpjWeCTl1Vdn0x)
 

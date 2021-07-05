@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/A%20-%20Aggregate.md) - cumulative - [plain](/playlists/plain/2ds7AE2susZsoQbkjxZiUI) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2ds7AE2susZsoQbkjxZiUI))
+[pretty](/playlists/pretty/A%20-%20Aggregate.md) - cumulative - [plain](/playlists/plain/2ds7AE2susZsoQbkjxZiUI) ([githistory](https://github.githistory.xyz/tg-z/spotify-playlist-archive/blob/main/playlists/plain/2ds7AE2susZsoQbkjxZiUI))
 
 ### [A - Aggregate](https://open.spotify.com/playlist/2ds7AE2susZsoQbkjxZiUI)
 

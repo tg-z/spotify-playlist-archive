@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/🚨Emergency%20kpop🚨.md) - [plain](/playlists/plain/6dszmYx7oSoGsaFM2KBs58) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6dszmYx7oSoGsaFM2KBs58))
+pretty - [cumulative](/playlists/cumulative/🚨Emergency%20kpop🚨.md) - [plain](/playlists/plain/6dszmYx7oSoGsaFM2KBs58) ([githistory](https://github.githistory.xyz/tg-z/spotify-playlist-archive/blob/main/playlists/plain/6dszmYx7oSoGsaFM2KBs58))
 
 ### [🚨Emergency kpop🚨](https://open.spotify.com/playlist/6dszmYx7oSoGsaFM2KBs58)
 

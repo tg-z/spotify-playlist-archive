@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/best%20cix%20songs%20imo.md) - cumulative - [plain](/playlists/plain/3lGpG0AmK1dn5Y8OcQt1dd) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3lGpG0AmK1dn5Y8OcQt1dd))
+[pretty](/playlists/pretty/best%20cix%20songs%20imo.md) - cumulative - [plain](/playlists/plain/3lGpG0AmK1dn5Y8OcQt1dd) ([githistory](https://github.githistory.xyz/tg-z/spotify-playlist-archive/blob/main/playlists/plain/3lGpG0AmK1dn5Y8OcQt1dd))
 
 ### [best cix songs imo](https://open.spotify.com/playlist/3lGpG0AmK1dn5Y8OcQt1dd)
 

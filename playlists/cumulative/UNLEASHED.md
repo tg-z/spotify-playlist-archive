@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/UNLEASHED.md) - cumulative - [plain](/playlists/plain/2Ai8BlC1EeJjNsbmrdxhlU) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2Ai8BlC1EeJjNsbmrdxhlU))
+[pretty](/playlists/pretty/UNLEASHED.md) - cumulative - [plain](/playlists/plain/2Ai8BlC1EeJjNsbmrdxhlU) ([githistory](https://github.githistory.xyz/tg-z/spotify-playlist-archive/blob/main/playlists/plain/2Ai8BlC1EeJjNsbmrdxhlU))
 
 ### [UNLEASHED](https://open.spotify.com/playlist/2Ai8BlC1EeJjNsbmrdxhlU)
 

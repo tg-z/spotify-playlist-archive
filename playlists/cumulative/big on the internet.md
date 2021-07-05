@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/big%20on%20the%20internet.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5Vy6DFOcx00) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5Vy6DFOcx00))
+[pretty](/playlists/pretty/big%20on%20the%20internet.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5Vy6DFOcx00) ([githistory](https://github.githistory.xyz/tg-z/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5Vy6DFOcx00))
 
 ### [big on the internet](https://open.spotify.com/playlist/37i9dQZF1DX5Vy6DFOcx00)
 

@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/Your%20Top%20Songs%202019.md) - [plain](/playlists/plain/37i9dQZF1EtayZct3LiPa3) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1EtayZct3LiPa3))
+pretty - [cumulative](/playlists/cumulative/Your%20Top%20Songs%202019.md) - [plain](/playlists/plain/37i9dQZF1EtayZct3LiPa3) ([githistory](https://github.githistory.xyz/tg-z/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1EtayZct3LiPa3))
 
 ### [Your Top Songs 2019](https://open.spotify.com/playlist/37i9dQZF1EtayZct3LiPa3)
 

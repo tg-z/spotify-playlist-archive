@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/Musica%20Favorita.md) - [plain](/playlists/plain/1B0iZe9xIvmHPZHmJEa4Sd) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1B0iZe9xIvmHPZHmJEa4Sd))
+pretty - [cumulative](/playlists/cumulative/Musica%20Favorita.md) - [plain](/playlists/plain/1B0iZe9xIvmHPZHmJEa4Sd) ([githistory](https://github.githistory.xyz/tg-z/spotify-playlist-archive/blob/main/playlists/plain/1B0iZe9xIvmHPZHmJEa4Sd))
 
 ### [Musica Favorita](https://open.spotify.com/playlist/1B0iZe9xIvmHPZHmJEa4Sd)
 

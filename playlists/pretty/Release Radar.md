@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/Release%20Radar.md) - [plain](/playlists/plain/37i9dQZEVXbiW6nyzWkNRB) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbiW6nyzWkNRB))
+pretty - [cumulative](/playlists/cumulative/Release%20Radar.md) - [plain](/playlists/plain/37i9dQZEVXbiW6nyzWkNRB) ([githistory](https://github.githistory.xyz/tg-z/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbiW6nyzWkNRB))
 
 ### [Release Radar](https://open.spotify.com/playlist/37i9dQZEVXbiW6nyzWkNRB)
 

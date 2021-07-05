@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/Dazed%20and%20Confused(full%20soundtrack%20in%20order%20of%20movie).md) - [plain](/playlists/plain/6vBhr02ZjJGHZQQKWCKjfC) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6vBhr02ZjJGHZQQKWCKjfC))
+pretty - [cumulative](/playlists/cumulative/Dazed%20and%20Confused(full%20soundtrack%20in%20order%20of%20movie).md) - [plain](/playlists/plain/6vBhr02ZjJGHZQQKWCKjfC) ([githistory](https://github.githistory.xyz/tg-z/spotify-playlist-archive/blob/main/playlists/plain/6vBhr02ZjJGHZQQKWCKjfC))
 
 ### [Dazed and Confused(full soundtrack in order of movie)](https://open.spotify.com/playlist/6vBhr02ZjJGHZQQKWCKjfC)
 

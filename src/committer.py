@@ -22,8 +22,8 @@ class Committer:
         logger.info("Configuring git")
 
         config = ["git", "config", "--global"]
-        config_name = cls._run(config + ["user.name", "Mack Ward (Bot Account)"])
-        config_email = cls._run(config + ["user.email", "mackorone.bot@gmail.com"])
+        config_name = cls._run(config + ["user.name", "tg-z (bot account)"])
+        config_email = cls._run(config + ["user.email", "parasitism@protonmail.com"])
 
         if config_name.returncode != 0:
             raise Exception("Failed to configure name")
@@ -59,7 +59,7 @@ class Committer:
         # It's ok to print the token, GitHub Actions will hide it
         token = os.getenv("BOT_GITHUB_ACCESS_TOKEN")
         url = (
-            "https://mackorone-bot:{}@github.com/mackorone/"
+            "https://tg-z-bot:{}@github.com/tg-z/"
             "spotify-playlist-archive.git".format(token)
         )
         remote_add = cls._run(["git", "remote", "add", "origin", url])

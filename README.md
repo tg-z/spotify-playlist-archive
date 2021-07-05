@@ -73,6 +73,7 @@ how the playlist evolves over time.
 - [shazam](/playlists/pretty/shazam.md)
 - [SHE'S THE MAN (soundtrack)](/playlists/pretty/SHE'S%20THE%20MAN%20(soundtrack).md)
 - [This Is Bladee](/playlists/pretty/This%20Is%20Bladee.md)
+- [This Is BTS](/playlists/pretty/This%20Is%20BTS.md)
 - [This Is ENHYPEN](/playlists/pretty/This%20Is%20ENHYPEN.md)
 - [Today's Top Hits](/playlists/pretty/Today's%20Top%20Hits.md)
 - [Top 50 - Global](/playlists/pretty/Top%2050%20-%20Global.md)

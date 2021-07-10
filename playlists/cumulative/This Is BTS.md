@@ -2,7 +2,7 @@
 
 ### [This Is BTS](https://open.spotify.com/playlist/37i9dQZF1DX08mhnhv6g9b)
 
-> Smooth like Butter 🧈 A.R.M.Y is unbeatable💜  
+> Did you get a Permission to Dance? A.R.M.Y is unbeatable💜  
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Outro : Ego](https://open.spotify.com/track/2ezpl1QGsrICxQwl039Yoe) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/7HXqq0fokRpOKG0bQW4xnB) | 3:16 | 2021-07-05 |  |
 | [Outro : Wings](https://open.spotify.com/track/1GwiuoyJzlEuGw0yrLuF6H) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [YOU NEVER WALK ALONE](https://open.spotify.com/album/64WayBZ9Mrx8iGOpME5vpI) | 3:45 | 2021-07-05 |  |
 | [People](https://open.spotify.com/track/0SJ7vFES0Lj6pnumh3DhCe) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [D-2](https://open.spotify.com/album/0zhGddZ83RpCgnelKWa2qS) | 3:17 | 2021-07-05 |  |
+| [Permission to Dance](https://open.spotify.com/track/0LThjFY2iTtNdd4wviwVV2) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter / Permission to Dance](https://open.spotify.com/album/1iLUfFVZF8bltkBkONumgG) | 3:07 | 2021-07-10 |  |
 | [Pied Piper](https://open.spotify.com/track/0ffweDHrg4bZqdG4IfGYuo) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 承 'Her'](https://open.spotify.com/album/2FTS6a6DLXMNp8flyA0HGO) | 4:05 | 2021-07-05 |  |
 | [Respect](https://open.spotify.com/track/07KegcFokV4bBD1GvO1j6L) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/7HXqq0fokRpOKG0bQW4xnB) | 3:57 | 2021-07-05 |  |
 | [Run](https://open.spotify.com/track/3SESmwaRfVQddNhwCSKQur) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Most Beautiful Moment in Life: Young Forever](https://open.spotify.com/album/7qvA0kf1dkmR1As2gOnBPn) | 3:56 | 2021-07-05 |  |

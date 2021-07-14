@@ -2,7 +2,7 @@
 
 ### [kpop](https://open.spotify.com/playlist/5wFOwKjb14nlMzOHLP1Fs0)
 
-> 
+> best enjoyed on shuffle &lt;3
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -10,6 +10,7 @@
 | [10 Months](https://open.spotify.com/track/3LcFQsZw01tRvjCNLgSmTv) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : DAY ONE](https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH) | 3:14 | 2021-07-05 |  |
 | [20cm](https://open.spotify.com/track/5vz7614Y45d7U5Coi0FjnA) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: MAGIC](https://open.spotify.com/album/5KoR6s906nbO21C9ZPdwTv) | 3:37 | 2021-07-05 |  |
 | [Advice](https://open.spotify.com/track/4rOODw637hsmsq0uzT0DN3) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Advice - The 3rd Mini Album](https://open.spotify.com/album/0kNUDDHwjpemplDqSZ72Ct) | 3:11 | 2021-07-05 |  |
+| [AEAO](https://open.spotify.com/track/3TPvrMAd1hbPRXuHCRX0Pl) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [A Giant Step](https://open.spotify.com/album/6SFd0NeIrUfZoqCSjoFpe8) | 5:16 | 2021-07-14 |  |
 | [After School](https://open.spotify.com/track/52CBUrIdyf8tbZaUY9iawE) | [Weeekly](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) | [We play](https://open.spotify.com/album/4kU6DFVgZKoDYQPZk1OZp9) | 3:25 | 2021-07-05 |  |
 | [Alcohol-Free](https://open.spotify.com/track/0BTaaKT4RMbs5M73tOHX5Y) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Taste of Love](https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4) | 3:30 | 2021-07-05 |  |
 | [All I Wanna Do](https://open.spotify.com/track/2PcJoVkfjcbvoqBxV1Nj7y) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 3:29 | 2021-07-05 |  |
@@ -31,6 +32,7 @@
 | [Burning Up (Fire)](https://open.spotify.com/track/4z9gBZQjGS4QLb4LOvmeuA) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Most Beautiful Moment in Life: Young Forever](https://open.spotify.com/album/7qvA0kf1dkmR1As2gOnBPn) | 3:23 | 2021-07-05 |  |
 | [Butter](https://open.spotify.com/track/2bgTY4UwhfBYhGT4HUYStN) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter (Hotter, Sweeter, Cooler)](https://open.spotify.com/album/1HnJKmB4P6Z8RBdLMWx18w) | 2:44 | 2021-07-05 |  |
 | [Butterfly](https://open.spotify.com/track/6kX452oUUNojKWNNuc1nqx) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Most Beautiful Moment in Life Pt.2](https://open.spotify.com/album/4frjaGAtuBmm8CPuYPY4oG) | 3:58 | 2021-07-05 |  |
+| [Butterfly](https://open.spotify.com/track/12TI802gjc7soYzEK2jx7L) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [DISHARMONY : STAND OUT](https://open.spotify.com/album/0IBGqfWduNDfbSqYjSd1Tv) | 3:20 | 2021-07-14 |  |
 | [Call Me Maybe](https://open.spotify.com/track/3kzDgmslzUUAPFZzO0YfsG) | [SAya](https://open.spotify.com/artist/0Twk7swVpScH341g40BIbO) | [True Beauty (Original Television Soundtrack), Pt. 1](https://open.spotify.com/album/61lJwzWemiZi77UCpsFg1b) | 3:21 | 2021-07-05 |  |
 | [Cat & Dog](https://open.spotify.com/track/3RsEvBUaNT9MXqUvQVuK1G) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: STAR](https://open.spotify.com/album/5GiLAzb049s1SsDiUPhHVz) | 3:07 | 2021-07-05 |  |
 | [Cereal](https://open.spotify.com/track/3AjWddhlSnA3PO8DQYXgSD) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [wonderlost](https://open.spotify.com/album/25MhXP1nRONHaLpfrfTOLr) | 3:38 | 2021-07-05 |  |
@@ -58,6 +60,7 @@
 | [FEVER](https://open.spotify.com/track/0UzymivvUH5s8z4PeWZJaK) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : CARNIVAL](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) | 2:52 | 2021-07-05 |  |
 | [Fireworks (I'm The One)](https://open.spotify.com/track/0rNLaGUleZ91DXMxmZNq5v) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.2](https://open.spotify.com/album/1JMc8IZ1Jbax6m5OvswmAB) | 3:29 | 2021-07-05 |  |
 | [Flowerpot](https://open.spotify.com/track/2tTsXHJqSRnS3Grb2KprOR) | [Alex](https://open.spotify.com/artist/3E0hcDz3BQfblBm7PU4Ghr) | [My Vintage Romance](https://open.spotify.com/album/5uCd8Tqw5HIdOGh1Kld7Ks) | 4:21 | 2021-07-05 |  |
+| [Forget Me Not](https://open.spotify.com/track/3QA3KfGs1UvSEZkWcio81R) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : 儚い](https://open.spotify.com/album/05UNmVxVeG3XwkfrcXls5g) | 3:23 | 2021-07-14 |  |
 | [FUN!](https://open.spotify.com/track/3bD1rBz24Pnu6tjXf4wJxH) | [fromis_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [FUN FACTORY](https://open.spotify.com/album/3uMKUGH8pf5hzeyw44aiTF) | 3:03 | 2021-07-09 |  |
 | [Gee](https://open.spotify.com/track/0t7kjpVLgOYITrSfFCoBEA) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [Oh! - The Second Album](https://open.spotify.com/album/4e841RxorIoZIufX8v7p7E) | 3:21 | 2021-07-05 |  |
 | [Genie](https://open.spotify.com/track/7m48u7EC4gnCfAhwoLfbCE) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [Genie - The Second Mini Album](https://open.spotify.com/album/7dXtKHYGXhQZCE2mEg0l93) | 3:50 | 2021-07-05 |  |
@@ -77,6 +80,7 @@
 | [I'm Missing You](https://open.spotify.com/track/0w0NpOQOYYClaTI0TFHBMF) | [Sunjae](https://open.spotify.com/artist/0MeOKtKKNYUBM075fR930L) | [True Beauty (Original Television Soundtrack), Pt. 4](https://open.spotify.com/album/0V183a5JAKEFwnlRFzfqbQ) | 3:02 | 2021-07-05 |  |
 | [Ice Cream (with Selena Gomez)](https://open.spotify.com/track/2J4P46vCFm1rPkNkp9pZWX) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Ice Cream (with Selena Gomez)](https://open.spotify.com/album/2VBb4LRcRSACOfJWRUgVZl) | 2:55 | 2021-07-05 |  |
 | [ICY](https://open.spotify.com/track/7zFBtYAVURF3bUVqEQ6UUu) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ICY](https://open.spotify.com/album/2y2Nuvvw5xNDYOunTSsgf1) | 3:11 | 2021-07-05 |  |
+| [IDOL](https://open.spotify.com/track/2AIWoHr9DF6y4KALCBKWQS) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/2lATw9ZAVp7ILQcOKPCPqp) | 3:42 | 2021-07-14 |  |
 | [In the morning - English Ver.](https://open.spotify.com/track/4GNMnhLF0sfDxXbEjAl2TA) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [In the morning (English Ver.)](https://open.spotify.com/album/5jDFUDs30zMukAEk81Fveg) | 2:52 | 2021-07-05 |  |
 | [In the morning](https://open.spotify.com/track/2QdH0rKlV3d9Y6lWzcnlBH) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GUESS WHO](https://open.spotify.com/album/1PKhKkeCqANY5E9RGcUWUX) | 2:52 | 2021-07-05 |  |
 | [Infrared Camera](https://open.spotify.com/track/0YRuXgAFpfsIx8GgsJBJu3) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Show Me The Money 9 Episode 3](https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt) | 3:25 | 2021-07-05 |  |
@@ -110,6 +114,7 @@
 | [My Youth](https://open.spotify.com/track/3nSlc1Vim492Nue6Sy7WqD) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hello Future - The 1st Album Repackage](https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM) | 3:56 | 2021-07-05 |  |
 | [NEGA DOLA](https://open.spotify.com/track/3mKxSCbDR7WeP632sIaxG2) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [ONE SHOT, TWO SHOT - The 1st Mini Album](https://open.spotify.com/album/04gRvDvXy6ctlFxI3G7Wd5) | 2:56 | 2021-07-05 |  |
 | [Next Level](https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Next Level](https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N) | 3:41 | 2021-07-05 |  |
+| [Nillili Mambo](https://open.spotify.com/track/4fZYGHiRcKxwVSnF498uaE) | [Block B](https://open.spotify.com/artist/4RnezwRV7VBJUCI1S0AE5u) | [BLOCKBUSTER](https://open.spotify.com/album/5humkj69QwOd1wBwmmMZq6) | 3:25 | 2021-07-14 |  |
 | [No Rules](https://open.spotify.com/track/1lb61ya67YS87CtjYN0bil) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FREEZE](https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9) | 3:06 | 2021-07-05 |  |
 | [Not For Sale](https://open.spotify.com/track/3dG1jxbfBIZvzyFwAcsmS0) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : CARNIVAL](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) | 3:01 | 2021-07-05 |  |
 | [Not Shy](https://open.spotify.com/track/4ecVWqbtW6phQGpZMAyqIU) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Not Shy](https://open.spotify.com/album/0aqu2V5ohKHVfWqVFE7Ila) | 2:57 | 2021-07-05 |  |

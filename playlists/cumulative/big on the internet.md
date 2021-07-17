@@ -7,6 +7,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [#BrooklynBloodPop!](https://open.spotify.com/track/7K9Z3yFNNLv5kwTjQYGjnu) | [SyKo](https://open.spotify.com/artist/08ZqXO40nMrhBoGma4kls2) | [#BrooklynBloodPop!](https://open.spotify.com/album/68i0gDIA5T5YVUIxj9QdsU) | 2:25 | 2021-07-05 |  |
+| [2055](https://open.spotify.com/track/0mG6igzxbH55XRyq3ygEh8) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [2055](https://open.spotify.com/album/0DiZ7mmFppDNbEtoRPvSGf) | 2:03 | 2021-07-17 |  |
 | [5% TINT](https://open.spotify.com/track/11kDth1aKUEUMq9r1pqyds) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 3:16 | 2021-07-05 |  |
 | [A-O-K](https://open.spotify.com/track/51PSUD2YHjPyAy3jnkaoy7) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/1dqg0cgO1FRp4xl96B2djc) | 2:53 | 2021-07-05 |  |
 | [Addicted](https://open.spotify.com/track/6yuraIBlY8JGTVSwt2QSoB) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [WOPTOBER](https://open.spotify.com/album/4A70XLIysm5lTaZYtCDveX) | 3:11 | 2021-07-05 |  |
@@ -56,6 +57,7 @@
 | [Good Form (feat. Lil Wayne)](https://open.spotify.com/track/6supMAknraGpJrN5qqYfV8) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Queen (Deluxe)](https://open.spotify.com/album/6zA5X3CQ5rgLKhTobyV5Id) | 3:57 | 2021-07-05 |  |
 | [happier](https://open.spotify.com/track/2tGvwE8GcFKwNdAXMnlbfl) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:55 | 2021-07-05 |  |
 | [Hatchback](https://open.spotify.com/track/12hVQgYR254ZziANtiKVWQ) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [Hatchback](https://open.spotify.com/album/1GqVf0wkVpT32Mxj7NGxpL) | 2:29 | 2021-07-05 |  |
+| [Heartburn](https://open.spotify.com/track/3tjfbu0G0PPy8UjhxfxVIe) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Heartburn](https://open.spotify.com/album/4RfO9aZPT2i4U2Wi1ERfOP) | 3:26 | 2021-07-17 |  |
 | [Hell Shell](https://open.spotify.com/track/5fO4ybFbomoSWPB3n2d6pe) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [Nudy Land](https://open.spotify.com/album/07pAbeTv7PS5m7VUQ5zGuO) | 2:42 | 2021-07-05 |  |
 | [Hello Baby feat. Fivio Foreign](https://open.spotify.com/track/06YAQv6odmXWnR9pzMaJOm) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Off the Yak](https://open.spotify.com/album/3jS5p3u5bK0OYq9BQKa6PN) | 2:58 | 2021-07-05 |  |
 | [Hermit the Frog](https://open.spotify.com/track/4Zcz6saEkOII3PlXd9gN3o) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [The Family Jewels](https://open.spotify.com/album/1CtDa7pVfLF4u2ZadRTWz7) | 3:35 | 2021-07-05 |  |

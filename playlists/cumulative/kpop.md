@@ -6,6 +6,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [00:00 (Zero O’Clock)](https://open.spotify.com/track/4AlihYDqxXshKhvh5tnMfP) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/6mJZTV8lCqnwftYZa94bXS) | 4:10 | 2021-07-25 |  |
 | [0X1=LOVESONG (I Know I Love You) feat. Seori](https://open.spotify.com/track/1Z8TPHiKeCUyClxV6WTTIf) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FREEZE](https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9) | 3:22 | 2021-07-05 |  |
 | [10 Months](https://open.spotify.com/track/3LcFQsZw01tRvjCNLgSmTv) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : DAY ONE](https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH) | 3:14 | 2021-07-05 |  |
 | [20cm](https://open.spotify.com/track/5vz7614Y45d7U5Coi0FjnA) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: MAGIC](https://open.spotify.com/album/5KoR6s906nbO21C9ZPdwTv) | 3:37 | 2021-07-05 |  |
@@ -66,6 +67,7 @@
 | [Dumb Dumb](https://open.spotify.com/track/64iDjAuWDogVhuoWhKklF9) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Red - The 1st Album](https://open.spotify.com/album/6YL9J0E6PGtYzkhyMxnmXd) | 3:22 | 2021-07-05 |  |
 | [Dynamite](https://open.spotify.com/track/4saklk6nie3yiGePpBwUoc) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS) | 3:19 | 2021-07-05 |  |
 | [Error (Feat. Loopy)](https://open.spotify.com/track/7IRknQOMvsycACYS1fVGex) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg) | [ISLAND](https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO) | 3:27 | 2021-07-24 |  |
+| [Euphoria](https://open.spotify.com/track/3p6hnejEQYXkiTO1lAzVc0) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/2lATw9ZAVp7ILQcOKPCPqp) | 3:48 | 2021-07-25 |  |
 | [FAKE LOVE](https://open.spotify.com/track/3aW0ds4A4tSQDIp75FqWTo) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 轉 'Tear'](https://open.spotify.com/album/2jJfnAZE6IG3oYnUv2eCj4) | 4:02 | 2021-07-08 |  |
 | [Fall in You](https://open.spotify.com/track/0LE7qfUeJLORKEVurAvy6u) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [True Beauty (Original Television Soundtrack), Part. 6](https://open.spotify.com/album/2sqziweSLrkdUblmdiyBT5) | 3:46 | 2021-07-05 |  |
 | [FANCY](https://open.spotify.com/track/2qQpFbqqkLOGySgNK8wBXt) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [FANCY YOU](https://open.spotify.com/album/3aLpWFejbsdyafODLXRqwF) | 3:33 | 2021-07-05 |  |

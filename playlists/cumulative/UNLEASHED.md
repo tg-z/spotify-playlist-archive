@@ -2,7 +2,7 @@
 
 ### [UNLEASHED](https://open.spotify.com/playlist/2Ai8BlC1EeJjNsbmrdxhlU)
 
-> The songs you need to listen to, curated by the UU staff. | Cover: VilloVilduVeta Photo: Hendrik Schneider
+> The songs you need to listen to, curated by the UU staff. | Cover: VilloVilduVeta Photo: Hendrik Schneider. 
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

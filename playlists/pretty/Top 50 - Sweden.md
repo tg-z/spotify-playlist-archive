@@ -6,7 +6,7 @@ pretty - [cumulative](/playlists/cumulative/Top%2050%20-%20Sweden.md) - [plain](
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Stay (with Justin Bieber)](https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [F*CK LOVE 3: OVER YOU](https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2) | 2:21 |
+| 1 | [STAY (with Justin Bieber)](https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [F*CK LOVE 3: OVER YOU](https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2) | 2:21 |
 | 2 | [Flickorna i Båstad](https://open.spotify.com/track/1oBnt1oJbdJkD3bl9dBDhq) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Flickorna i Båstad](https://open.spotify.com/album/4z9tC7t9WATSNi3ikxrjE8) | 2:38 |
 | 3 | [Bad Habits](https://open.spotify.com/track/6PQ88X9TkUIAUIZJHW2upE) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bad Habits](https://open.spotify.com/album/01NhUvviMytvV12pmJiDZH) | 3:51 |
 | 4 | [Samma gamla vanliga](https://open.spotify.com/track/4hsTQQgfBnBgtBkTGKWS1G) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Samma gamla vanliga](https://open.spotify.com/album/0pDplTjct8PBplJ7s2sL6p) | 2:09 |

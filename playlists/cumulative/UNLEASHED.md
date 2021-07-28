@@ -2,7 +2,7 @@
 
 ### [UNLEASHED](https://open.spotify.com/playlist/2Ai8BlC1EeJjNsbmrdxhlU)
 
-> The songs you need to listen to, curated by the UU staff. | Cover: Dana Dentata Photo: @shloadedgabe. 
+> The songs you need to listen to, curated by the UU staff. | Cover: @danadentata Photo: @shloadedgabe. 
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

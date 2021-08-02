@@ -2,7 +2,7 @@
 
 ### [K-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K-Pop hits! Cover: Dreamcatcher
+> Future K-Pop hits! Cover: ASTRO
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [9LIVES](https://open.spotify.com/track/0TC2qsBgTZC9ojrtbKz8Rd) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [Good Girl (Episode 2)](https://open.spotify.com/album/0rnf3v41imToPANdyUNhWF) | 3:23 | 2020-10-13 | 2020-11-05 |
 | [<MISSING>](https://open.spotify.com/track/6vcJyCa9NgFQer7O6X1NY7) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [<MISSING>](https://open.spotify.com/album/0UHpoOOB9NC0joJKAWuYgi) | 3:29 | 2021-03-02 | 2021-03-08 |
 | [Advice](https://open.spotify.com/track/4rOODw637hsmsq0uzT0DN3) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Advice - The 3rd Mini Album](https://open.spotify.com/album/0kNUDDHwjpemplDqSZ72Ct) | 3:11 | 2021-05-19 |  |
+| [After Midnight](https://open.spotify.com/track/35ylkTvU4CWnQVrYqsp2VQ) | [ASTRO](https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8) | [SWITCH ON](https://open.spotify.com/album/20UJy1ziViNvfJCzjGn5xr) | 3:10 | 2021-08-02 |  |
 | [After School](https://open.spotify.com/track/52CBUrIdyf8tbZaUY9iawE) | [Weeekly](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) | [We play](https://open.spotify.com/album/4kU6DFVgZKoDYQPZk1OZp9) | 3:25 | 2021-03-18 |  |
 | [Alcohol-Free](https://open.spotify.com/track/6HTwoo4dUOvePNqMsTarPA) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Alcohol-Free](https://open.spotify.com/album/6UIHtz9pSMArPCOEkUkLOp) | 3:30 | 2021-06-10 |  |
 | [ALIEN](https://open.spotify.com/track/4usd9lLG24P5tRp92CRoPc) | [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [ALIEN](https://open.spotify.com/album/5Q9UJ0rW8js5o6qGIMo2sd) | 3:01 | 2020-10-22 | 2021-03-18 |
@@ -89,6 +90,7 @@
 | [Down (feat. Grey)](https://open.spotify.com/track/0hCN8CN4XwpnVxCUvUuRu7) | [A.C.E](https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi), [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl) | [Down](https://open.spotify.com/album/7kgyAWZE9JuzFLa93O8mgg) | 3:13 | 2021-04-22 | 2021-07-27 |
 | [Drink It](https://open.spotify.com/track/56URBnyl71PPaebwimqwQD) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Drink It](https://open.spotify.com/album/6gstlIojQWTAcrsRqBQxLR) | 3:26 | 2021-07-15 |  |
 | [Drunk-Dazed](https://open.spotify.com/track/1wcr8DjnN59Awev8nnKpQ4) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : CARNIVAL](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) | 3:13 | 2021-04-30 |  |
+| [DUMB DUMB](https://open.spotify.com/track/6dG2zPUOWXk3eMC7Hb3wh3) | [SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [DUMB DUMB](https://open.spotify.com/album/5CIz2DHjAyFhPYNjWdCs1T) | 2:29 | 2021-08-02 |  |
 | [DUMDi DUMDi](https://open.spotify.com/track/2fJ70dRX7J4jiVxKUQQp7C) | [(G)I-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [DUMDi DUMDi](https://open.spotify.com/album/0NC6QFvAc9H9r5iov9QwjK) | 3:30 | 2020-10-13 | 2021-01-25 |
 | [DUMDi DUMDi](https://open.spotify.com/track/2fJ70dRX7J4jiVxKUQQp7C) | [SOYEON of (G)I-DLE](https://open.spotify.com/artist/7bhzw1KVooq7vvGR0r0SXf) | [DUMDi DUMDi](https://open.spotify.com/album/0NC6QFvAc9H9r5iov9QwjK) | 3:30 | 2020-10-15 | 2020-10-23 |
 | [Dun Dun Dance](https://open.spotify.com/track/1TJUl8dh8AaKyDt91Kz87n) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Dear OHMYGIRL](https://open.spotify.com/album/02tASSJqgrHueEUw97lnRm) | 3:40 | 2021-05-11 | 2021-07-29 |
@@ -109,6 +111,7 @@
 | [Forever (약속)](https://open.spotify.com/track/26YNVqHuwAPeBVfDscTPds) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Forever (약속)](https://open.spotify.com/album/3CExk4WgPxe0lOwoOhuMWj) | 4:58 | 2021-02-10 | 2021-05-05 |
 | [G.B.T.B.](https://open.spotify.com/track/2snmVNiCZjld3lKI7BTQId) | [VERIVERY](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) | [FACE US](https://open.spotify.com/album/2lgJVzhHmVMV2ga4eDVGtx) | 3:04 | 2020-10-13 | 2021-01-11 |
 | [GAMBLER](https://open.spotify.com/track/1Zsy7gMUcHDhxC0bbyZmC2) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [One of a Kind](https://open.spotify.com/album/2Zuovdo5g1RhfbHniwZ8yI) | 3:33 | 2021-06-03 | 2021-07-27 |
+| [Game Changer](https://open.spotify.com/track/4e30DYeixlFT38Vu1Tv2Xh) | [Golden Child](https://open.spotify.com/artist/5zShiwTHlygdfsXj6eavTu) | [Golden Child 2nd Album [Game Changer]](https://open.spotify.com/album/4PTy3b8H1Blt625KhFa9QU) | 1:35 | 2021-08-02 |  |
 | [Garden In The Air](https://open.spotify.com/track/1x6L3DD4MHziI0CVywZgnw) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Our Beloved BoA #1 - SM STATION](https://open.spotify.com/album/3RuJjHP8JUBcktoao5J2Wc) | 3:17 | 2020-10-13 | 2020-11-11 |
 | [GEMINI](https://open.spotify.com/track/7L9gc9u9Ev2OprF08AMhGH) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [GEMINI](https://open.spotify.com/album/2kikdfulAIPagHRLh18uJH) | 3:46 | 2021-05-28 | 2021-07-29 |
 | [Get Away](https://open.spotify.com/track/5W37S0nq1XvGEyTlUkmr3f) | [VERIVERY](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) | [SERIES ‘O’ [ROUND 1 : HALL]](https://open.spotify.com/album/5wQhc8SEKiiXb5b5Ou7tHE) | 3:20 | 2021-03-02 | 2021-06-03 |

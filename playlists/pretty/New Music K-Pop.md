@@ -7,7 +7,7 @@ pretty - [cumulative](/playlists/cumulative/New%20Music%20K-Pop.md) - [plain](/p
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [DUMB DUMB](https://open.spotify.com/track/0dnkOK5hGUCmIJ7FDF0yHz) | [SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [DUMB DUMB](https://open.spotify.com/album/24sFioeGsPtxa5fD6VzL8b) | 2:29 |
-| 2 | [Game Changer](https://open.spotify.com/track/4e30DYeixlFT38Vu1Tv2Xh) | [Golden Child](https://open.spotify.com/artist/5zShiwTHlygdfsXj6eavTu) | [Golden Child 2nd Album [Game Changer]](https://open.spotify.com/album/4PTy3b8H1Blt625KhFa9QU) | 1:35 |
+| 2 | [Ra Pam Pam](https://open.spotify.com/track/7aJSEhH3kzrcr4g0uGXUC7) | [Golden Child](https://open.spotify.com/artist/5zShiwTHlygdfsXj6eavTu) | [Golden Child 2nd Album [Game Changer]](https://open.spotify.com/album/4PTy3b8H1Blt625KhFa9QU) | 3:31 |
 | 3 | [After Midnight](https://open.spotify.com/track/35ylkTvU4CWnQVrYqsp2VQ) | [ASTRO](https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8) | [SWITCH ON](https://open.spotify.com/album/20UJy1ziViNvfJCzjGn5xr) | 3:10 |
 | 4 | [The Art Of Farewell (feat. Hyelyn)](https://open.spotify.com/track/4SsdS2qbyy2JRH1sNSanO4) | [MUSM](https://open.spotify.com/artist/7uT444qheRWiJsA0EGvXFh), [Hyelyn](https://open.spotify.com/artist/3AUu7kGxxt4tatQ5jNfm3L) | [MUSM, op. 3](https://open.spotify.com/album/3IdhQk1jtUpHRJxpD2vPwR) | 4:02 |
 | 5 | [Crush](https://open.spotify.com/track/6SXzIBG0vInMPjYwL8fhm1) | [ZISU](https://open.spotify.com/artist/3zNBTnNYtztKwdB5uYApom) | [Crush](https://open.spotify.com/album/0ReK7qOZE12o5aBB07aUvZ) | 3:26 |

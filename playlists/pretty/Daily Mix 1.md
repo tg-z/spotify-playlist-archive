@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/Daily%20Mix%201.md) - [plain](/playl
 
 ### [Daily Mix 1](https://open.spotify.com/playlist/37i9dQZF1E3agfIzB3uiGU)
 
-> Dana Dentata, Aqua, Lana Del Rey and more
+> Blxst, Sean Kingston, Nelly and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

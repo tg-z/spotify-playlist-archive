@@ -5,7 +5,7 @@ on:
       - main
   schedule:
     # - cron: '0 0 * * *'  # @daily
-    - cron: '0 */3 * * *' # @every 3 hours
+    - cron: '0 */2 * * *' # @every 3 hours
 
 jobs:
   main:

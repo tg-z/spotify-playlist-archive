@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/kpop.md) - [plain](/playlists/plain/
 
 ### [kpop](https://open.spotify.com/playlist/5wFOwKjb14nlMzOHLP1Fs0)
 
-> best enjoyed on shuffle &lt;3
+> kpop, krnb, and khh best enjoyed on shuffle &lt;3
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -382,3 +382,9 @@ pretty - [cumulative](/playlists/cumulative/kpop.md) - [plain](/playlists/plain/
 | 374 | [DUMDi DUMDi](https://open.spotify.com/track/2fJ70dRX7J4jiVxKUQQp7C) | [(G)I-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [DUMDi DUMDi](https://open.spotify.com/album/0NC6QFvAc9H9r5iov9QwjK) | 3:30 |
 | 375 | [BOOMBAYAH](https://open.spotify.com/track/13MF2TYuyfITClL1R2ei6e) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE ONE](https://open.spotify.com/album/0FOOodYRlj7gzh7q7IjmNZ) | 4:00 |
 | 376 | [Crazy](https://open.spotify.com/track/5DZdCgnX9xAj59X6X7cQBs) | [4Minute](https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv) | [Crazy](https://open.spotify.com/album/5ooERKclQluBVu00PIH9Xm) | 3:12 |
+| 377 | [Life Goes On](https://open.spotify.com/track/249gnXrbfmV8NG6jTEMSwD) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS) | 3:27 |
+| 378 | [ASAP](https://open.spotify.com/track/5BXr7hYZQOeRttkeWYTq5S) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [STAYDOM](https://open.spotify.com/album/71hjsg660uio3Z8bnbB6fS) | 3:14 |
+| 379 | [Dun Dun Dance](https://open.spotify.com/track/54HsCR7lJJdwxmEnTY1JfF) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Dear OHMYGIRL](https://open.spotify.com/album/2xfmLni05CCgygcNdtPvuN) | 3:40 |
+| 380 | [Weekend](https://open.spotify.com/track/6cqH1q7g5GeRVQVMK1Vc7f) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Weekend](https://open.spotify.com/album/4tJsXd2onpa4P9lFmkJIKy) | 3:53 |
+| 381 | [NAKKA (with IU)](https://open.spotify.com/track/4t2FIqZJORKZGSKg30SShr) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:32 |
+| 382 | [Champion - Remix](https://open.spotify.com/track/6PurllVXXGL1s6UkLtzMVF) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Champion (Remix)](https://open.spotify.com/album/1VD9g6kl7AYtKRw36VoJed) | 3:30 |

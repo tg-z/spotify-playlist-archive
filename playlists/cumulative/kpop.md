@@ -2,7 +2,7 @@
 
 ### [kpop](https://open.spotify.com/playlist/5wFOwKjb14nlMzOHLP1Fs0)
 
-> best enjoyed on shuffle &lt;3
+> kpop, krnb, and khh best enjoyed on shuffle &lt;3
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Anti-Romantic](https://open.spotify.com/track/44tTqUi3xi7E28QLzHVdUA) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FREEZE](https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9) | 3:35 | 2021-07-05 |  |
 | [Any](https://open.spotify.com/track/5NbmRFtL4YLYv045u4bSNS) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/1fOJ6SHLXOLnsuuwiLyzft) | 2:49 | 2021-07-16 |  |
 | [As If It's Your Last](https://open.spotify.com/track/4ZxOuNHhpyOj4gv52MtQpT) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [As If It's Your Last](https://open.spotify.com/album/7ikmjsvRzDRzxHN0KXSQdv) | 3:33 | 2021-07-26 |  |
+| [ASAP](https://open.spotify.com/track/5BXr7hYZQOeRttkeWYTq5S) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [STAYDOM](https://open.spotify.com/album/71hjsg660uio3Z8bnbB6fS) | 3:14 | 2021-08-10 |  |
 | [Atlantis](https://open.spotify.com/track/1mOr2W0j3T1ETqQRxA5d6w) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [SUPERSTAR](https://open.spotify.com/album/5WuWV2xSRmdtPx6L5v855S) | 2:58 | 2021-07-05 |  |
 | [Awkward Silence](https://open.spotify.com/track/0DKnykHG3eGnUM6YQe7Z5a) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2020](https://open.spotify.com/album/4hk05fFLNquJc8w5htXZDi) | 3:15 | 2021-07-26 |  |
 | [AYAYA](https://open.spotify.com/track/2nIQrNY2PDVL9elv6Qg1Qc) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [DISHARMONY : BREAK OUT](https://open.spotify.com/album/2QBdsbcBsTHVLlbAXBxaey) | 2:30 | 2021-07-16 |  |
@@ -67,6 +68,7 @@
 | [Celebrity](https://open.spotify.com/track/4RewTiGEGoO7FWNZUmp1f4) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Celebrity](https://open.spotify.com/album/3mtDgtcl4bxDN73kIM216g) | 3:15 | 2021-07-24 |  |
 | [Cereal](https://open.spotify.com/track/3AjWddhlSnA3PO8DQYXgSD) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [wonderlost](https://open.spotify.com/album/25MhXP1nRONHaLpfrfTOLr) | 3:38 | 2021-07-05 |  |
 | [Chained Up](https://open.spotify.com/track/2JcQ5i13wsNdyyXs8Sqab0) | [VIXX](https://open.spotify.com/artist/5BkB3rXc0qIdUtuEnhbK0A) | [Chained Up](https://open.spotify.com/album/1vpUDg93CEHBs0snI8TVm0) | 3:12 | 2021-08-08 |  |
+| [Champion - Remix](https://open.spotify.com/track/6PurllVXXGL1s6UkLtzMVF) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Champion (Remix)](https://open.spotify.com/album/1VD9g6kl7AYtKRw36VoJed) | 3:30 | 2021-08-10 |  |
 | [Chase Me](https://open.spotify.com/track/2KH7ZhZs01rJOIVvuUNFbo) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [악몽](https://open.spotify.com/album/2BIlGYqHZqWuI6GqwXd22t) | 3:09 | 2021-07-05 |  |
 | [Cherry Blossom Ending](https://open.spotify.com/track/4eFTh1opLS5wANDmZK9ghC) | [Busker Busker](https://open.spotify.com/artist/6jgrgDBt1SbtNbc25sLaTH) | [Busker Busker 1st](https://open.spotify.com/album/56XzxNKUGySZcu1nByxo3y) | 4:20 | 2021-07-16 |  |
 | [Cherry Bomb](https://open.spotify.com/track/3o8QzWsiiqTUVgBZfHgF58) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT #127 CHERRY BOMB– The 3rd Mini Album](https://open.spotify.com/album/7H5FkCA6cTDBX3wtvIbN8s) | 3:56 | 2021-07-17 |  |
@@ -103,6 +105,7 @@
 | [DUMB DUMB](https://open.spotify.com/track/0dnkOK5hGUCmIJ7FDF0yHz) | [SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [DUMB DUMB](https://open.spotify.com/album/24sFioeGsPtxa5fD6VzL8b) | 2:29 | 2021-08-04 |  |
 | [Dumb Litty](https://open.spotify.com/track/00emjlCv9azBN0fzuuyLqy) | [KARD](https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ) | [KARD 2nd Digital Single ‘Dumb Litty’](https://open.spotify.com/album/7h5X3xhh3peIK9Y0qI5hbK) | 3:13 | 2021-08-07 |  |
 | [DUMDi DUMDi](https://open.spotify.com/track/2fJ70dRX7J4jiVxKUQQp7C) | [(G)I-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [DUMDi DUMDi](https://open.spotify.com/album/0NC6QFvAc9H9r5iov9QwjK) | 3:30 | 2021-08-10 |  |
+| [Dun Dun Dance](https://open.spotify.com/track/54HsCR7lJJdwxmEnTY1JfF) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Dear OHMYGIRL](https://open.spotify.com/album/2xfmLni05CCgygcNdtPvuN) | 3:40 | 2021-08-10 |  |
 | [Dynamite](https://open.spotify.com/track/4saklk6nie3yiGePpBwUoc) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS) | 3:19 | 2021-07-05 |  |
 | [Easy](https://open.spotify.com/track/2AeLlfB0vLKz7nukzQ97ri) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/7B3Rmyws1KcAxQfYPoInEZ) | 3:03 | 2021-07-25 |  |
 | [Error (Feat. Loopy)](https://open.spotify.com/track/7IRknQOMvsycACYS1fVGex) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg) | [ISLAND](https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO) | 3:27 | 2021-07-24 |  |
@@ -200,6 +203,7 @@
 | [LETTER (True Beauty X VIINI)](https://open.spotify.com/track/3j1JnErBuRpWQpgtSmuMK7) | [VIINI](https://open.spotify.com/artist/1BqI1HGTzHx6abI5iBVz2F) | [LETTER (True Beauty X VIINI)](https://open.spotify.com/album/1Fyrd1kuklVC57UQ041L1o) | 3:42 | 2021-07-28 |  |
 | [libidO](https://open.spotify.com/track/1mtsdtVKvczRequWUg518e) | [OnlyOneOf](https://open.spotify.com/artist/0iQGSzpJ0G0lsugv8jsJHd) | [Instinct, Pt. 1](https://open.spotify.com/album/6tcwy9Ggz7r7HaQTQY2ZDa) | 3:14 | 2021-07-05 |  |
 | [Lies](https://open.spotify.com/track/54SpjxPioot7g7hVfbrXHh) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Always](https://open.spotify.com/album/4T1fv3gIYifquPf9dRhJei) | 3:49 | 2021-08-07 |  |
+| [Life Goes On](https://open.spotify.com/track/249gnXrbfmV8NG6jTEMSwD) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS) | 3:27 | 2021-08-10 |  |
 | [Life Is Still Going On](https://open.spotify.com/track/3THdOskGxdJcRbp0DcS4s0) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hello Future - The 1st Album Repackage](https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM) | 3:38 | 2021-08-01 |  |
 | [Like](https://open.spotify.com/track/1HQHuPpr2s2z3VIBTLtUmv) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [2 Cool 4 Skool](https://open.spotify.com/album/26z5WolFltYgVMuuJ3c0Am) | 3:51 | 2021-07-27 |  |
 | [like i need u](https://open.spotify.com/track/7ivYWXqrPLs66YwakDuSim) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [THE REAPER](https://open.spotify.com/album/1hM5xkleU8wr2yOaY2gCMB) | 3:02 | 2021-07-25 |  |
@@ -250,6 +254,7 @@
 | [My Time](https://open.spotify.com/track/4vTgx6h4seHvkuFh84JXYP) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/6mJZTV8lCqnwftYZa94bXS) | 3:54 | 2021-07-05 |  |
 | [My Turn](https://open.spotify.com/track/3uO9uv6y5eAJrkQzkHqVnM) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [HIDEOUT: BE OUR VOICE - SEASON 3.](https://open.spotify.com/album/7151PzsDeTLtjDvqVyOj3m) | 3:33 | 2021-07-05 |  |
 | [My Youth](https://open.spotify.com/track/3nSlc1Vim492Nue6Sy7WqD) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hello Future - The 1st Album Repackage](https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM) | 3:56 | 2021-07-05 |  |
+| [NAKKA (with IU)](https://open.spotify.com/track/4t2FIqZJORKZGSKg30SShr) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:32 | 2021-08-10 |  |
 | [Nectar](https://open.spotify.com/track/0yWIL3sx36cPUrsj4w82zL) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) | [NCT RESONANCE Pt. 1 - The 2nd Album](https://open.spotify.com/album/6kudlOyCqSQfsBVSdPZEu4) | 3:18 | 2021-08-07 |  |
 | [NEGA DOLA](https://open.spotify.com/track/3mKxSCbDR7WeP632sIaxG2) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [ONE SHOT, TWO SHOT - The 1st Mini Album](https://open.spotify.com/album/04gRvDvXy6ctlFxI3G7Wd5) | 2:56 | 2021-07-05 |  |
 | [Next Level](https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Next Level](https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N) | 3:41 | 2021-07-05 |  |
@@ -350,6 +355,7 @@
 | [We Go (Bang Chan, Changbin, HAN)](https://open.spotify.com/track/4wbY22D0I6GL49RltKwdB5) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/1fOJ6SHLXOLnsuuwiLyzft) | 2:37 | 2021-07-05 |  |
 | [We Lost The Summer](https://open.spotify.com/track/1WrScpykT891CZhFThXJtj) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode1 : Blue Hour](https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr) | 3:30 | 2021-08-07 |  |
 | [We, First](https://open.spotify.com/track/0y1LIecRU2h6RcMIQ4P5vt) | [ELRIS](https://open.spotify.com/artist/1mgzY8CsK8lyJy96tT8bV5) | [WE, first](https://open.spotify.com/album/21dgcZBV7sIgFLS2ASogQ4) | 3:22 | 2021-07-05 |  |
+| [Weekend](https://open.spotify.com/track/6cqH1q7g5GeRVQVMK1Vc7f) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Weekend](https://open.spotify.com/album/4tJsXd2onpa4P9lFmkJIKy) | 3:53 | 2021-08-10 |  |
 | [What Type of X](https://open.spotify.com/track/0LweQRsfJ3pRAJJFy6DrR1) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [What Type of X](https://open.spotify.com/album/5uKW3bLhtPgOev6tKRFJpX) | 3:18 | 2021-08-06 |  |
 | [What You Waiting For](https://open.spotify.com/track/4CoxD8tetisleUQDA7vn1B) | [SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [What You Waiting For](https://open.spotify.com/album/59iiiARciChm70cn85wxuH) | 2:55 | 2021-07-05 |  |
 | [When We Disco (Duet with SUNMI)](https://open.spotify.com/track/6t9nnPyEZfjcn1aLJ4l9AK) | [J.Y. Park](https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B), [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [When We Disco](https://open.spotify.com/album/1PllJjUqafNlQ23eBqs511) | 3:44 | 2021-07-24 |  |

@@ -381,3 +381,4 @@ pretty - [cumulative](/playlists/cumulative/kpop.md) - [plain](/playlists/plain/
 | 373 | [Into the I-LAND](https://open.spotify.com/track/18W2OWFsdGCjG7iA4iYpMw) | [I-LAND](https://open.spotify.com/artist/4VbAtGhXMJr2AGXa8fkcRu) | [Into the I-LAND](https://open.spotify.com/album/3WOjr6hvxzvVgzz34cQtE2) | 3:37 |
 | 374 | [DUMDi DUMDi](https://open.spotify.com/track/2fJ70dRX7J4jiVxKUQQp7C) | [(G)I-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [DUMDi DUMDi](https://open.spotify.com/album/0NC6QFvAc9H9r5iov9QwjK) | 3:30 |
 | 375 | [BOOMBAYAH](https://open.spotify.com/track/13MF2TYuyfITClL1R2ei6e) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE ONE](https://open.spotify.com/album/0FOOodYRlj7gzh7q7IjmNZ) | 4:00 |
+| 376 | [Crazy](https://open.spotify.com/track/5DZdCgnX9xAj59X6X7cQBs) | [4Minute](https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv) | [Crazy](https://open.spotify.com/album/5ooERKclQluBVu00PIH9Xm) | 3:12 |

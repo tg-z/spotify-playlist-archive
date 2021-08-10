@@ -88,6 +88,7 @@ how the playlist evolves over time.
 - [RM's Favorite Tracks](/playlists/pretty/RM's%20Favorite%20Tracks.md)
 - [shazam](/playlists/pretty/shazam.md)
 - [SHE'S THE MAN (soundtrack)](/playlists/pretty/SHE'S%20THE%20MAN%20(soundtrack).md)
+- [sober up](/playlists/pretty/sober%20up.md)
 - [Stray Kids Complete Collection](/playlists/pretty/Stray%20Kids%20Complete%20Collection.md)
 - [This Is - EXO](/playlists/pretty/This%20Is%20-%20EXO.md)
 - [This Is ATEEZ](/playlists/pretty/This%20Is%20ATEEZ.md)

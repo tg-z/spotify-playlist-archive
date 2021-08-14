@@ -7,7 +7,7 @@ pretty - [cumulative](/playlists/cumulative/big%20on%20the%20internet.md) - [pla
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dark Red](https://open.spotify.com/track/37y7iDayfwm3WXn5BiAoRk) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Dark Red](https://open.spotify.com/album/5fvUFzgVEni3L7769OabqQ) | 2:53 |
-| 2 | [Just for me](https://open.spotify.com/track/6OTKVgVpVaVjhRLYizPJKA) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Just for me](https://open.spotify.com/album/00fcDjvEq4elj756TESO0c) | 1:58 |
+| 2 | [Just for me](https://open.spotify.com/track/6OTKVgVpVaVjhRLYizPJKA) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Just for me](https://open.spotify.com/album/00fcDjvEq4elj756TESO0c) | 1:55 |
 | 3 | [Woman](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:52 |
 | 4 | [Where'd All the Time Go?](https://open.spotify.com/track/0UV5zxRMz6AO4ZwUOZNIKI) | [Dr. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Shame, Shame (Deluxe Edition)](https://open.spotify.com/album/16XswZ18xhMs8qUTN51mRl) | 3:54 |
 | 5 | [Running Away](https://open.spotify.com/track/2lDODk7inZnmUHbIjUnIwP) | [VANO 3000](https://open.spotify.com/artist/770glnH67Mk4u2D41sxAhx), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Samuel T. Herring](https://open.spotify.com/artist/6K4I1MPd7m8IztUdtrF4YU) | [Running Away](https://open.spotify.com/album/0qD1Ymect5I2EamO4HE8ZB) | 1:51 |

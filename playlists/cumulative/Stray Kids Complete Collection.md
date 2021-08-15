@@ -2,7 +2,7 @@
 
 ### [Stray Kids Complete Collection](https://open.spotify.com/playlist/3DpapJ4IaeteMlgRXbays7)
 
-> Stray Kids•3RACHA + drive bang chan, lee know + 오늘 밤 나는 불을 켜 up all night + 향기만 남아 + HaPpY + 3108 + wish you back + piece + cause i like you + alien + maknae on top + love again + 꼬마별 + 너였다면 + i got it  + 그렇게 있어 줘 + cypher + congratulations + 00s psycho + 인정하기 싫어 + 예뻤어 + streetlight + close + start
+> Stray Kids•3RACHA•NOEASY + drive bang chan, lee know + 오늘 밤 나는 불을 켜 up all night + 향기만 남아 + HaPpY + 3108 + wish you back + piece + 좋으니까 + alien + maknae on top + love again + 꼬마별 + 너였다면 + i got it  + 그렇게 있어 줘 + cypher + congratulations + 00s psycho + 인정하기 싫어 + 예뻤어 + streetlight + close + start
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

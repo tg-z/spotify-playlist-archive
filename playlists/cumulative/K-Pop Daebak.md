@@ -2,7 +2,7 @@
 
 ### [K-Pop Daebak](https://open.spotify.com/playlist/37i9dQZF1DX9tPFwDMOaN1)
 
-> Score all the hottest hits from your favourite hallyu star and check out your one true K-Pop playlist! #kdaebak Cover: THE BOYZ
+> Score all the hottest hits from your favourite hallyu star and check out your one true K-Pop playlist! #kdaebak Cover: Red Velvet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Bambi](https://open.spotify.com/track/60VaORSJ5x1D4ZPSc0g2En) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Bambi - The 3rd Mini Album](https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p) | 3:33 | 2021-07-17 |  |
 | [BEAM BEAM](https://open.spotify.com/track/1VjIS4qoyD6JS2rNZQgE00) | [JEON SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [Windy](https://open.spotify.com/album/1lv92CIVZbB2BsHmIx7qJf) | 2:47 | 2021-07-17 | 2021-08-10 |
 | [BEcause](https://open.spotify.com/track/3L74uwShK0JqEUZ5Y2JoDW) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [[Summer Holiday]](https://open.spotify.com/album/1JOpx5eL6Rb3vRC9epERQD) | 3:11 | 2021-08-02 |  |
-| [Bittersweet (feat. LeeHi)](https://open.spotify.com/track/347PJwH4XqRbeaKaIW9sX3) | [WONWOO](https://open.spotify.com/artist/3rHcBT06Vb1XGVUWhDALZt), [MINGYU](https://open.spotify.com/artist/5gUpo0BRmo6EOTbyU3z5Ay), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Bittersweet (feat. LeeHi)](https://open.spotify.com/album/6qVk855QPCh57noNeeHMXQ) | 2:54 | 2021-07-17 |  |
+| [Bittersweet (feat. LeeHi)](https://open.spotify.com/track/347PJwH4XqRbeaKaIW9sX3) | [WONWOO](https://open.spotify.com/artist/3rHcBT06Vb1XGVUWhDALZt), [MINGYU](https://open.spotify.com/artist/5gUpo0BRmo6EOTbyU3z5Ay), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Bittersweet (feat. LeeHi)](https://open.spotify.com/album/6qVk855QPCh57noNeeHMXQ) | 2:54 | 2021-07-17 | 2021-08-16 |
 | [Broken Me](https://open.spotify.com/track/6PiOBvjLSb1UD9wtqwplUG) | [BM](https://open.spotify.com/artist/5lZV4z4dpX6IfTYlfUMvOE) | [Broken Me](https://open.spotify.com/album/26iymt2wG3Bw53mmX5AbvB) | 3:24 | 2021-07-17 | 2021-08-02 |
 | [Butter](https://open.spotify.com/track/3VqeTFIvhxu3DIe4eZVzGq) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter](https://open.spotify.com/album/2BDhPi2XCYujYxU6VM0QaD) | 2:44 | 2021-07-17 |  |
 | [Celebrity](https://open.spotify.com/track/4RewTiGEGoO7FWNZUmp1f4) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Celebrity](https://open.spotify.com/album/3mtDgtcl4bxDN73kIM216g) | 3:15 | 2021-07-17 |  |
@@ -36,7 +36,7 @@
 | [Hot Sauce](https://open.spotify.com/track/6B8MM3PVQtUbZLay7tP7er) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce - The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:15 | 2021-07-17 |  |
 | [I Want U Around (Feat. DeVita)](https://open.spotify.com/track/5zI721DtTDWjLbDvZoWKGZ) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [I Want U Around](https://open.spotify.com/album/0NCuf8EjsH0z06AdgzmQxi) | 3:11 | 2021-07-17 | 2021-08-10 |
 | [I'm Not Cool](https://open.spotify.com/track/5iIpbD34k4wnuRMZDNnuWf) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [I'm Not Cool](https://open.spotify.com/album/6DRfmdNDiTsTVACn9gavR0) | 2:54 | 2021-07-17 |  |
-| [illa illa](https://open.spotify.com/track/4M58f8RgOr3jr5ccG6hRTb) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [WATERFALL](https://open.spotify.com/album/7opzE9aGkgt8V4fnz6yX5t) | 3:25 | 2021-07-17 |  |
+| [illa illa](https://open.spotify.com/track/4M58f8RgOr3jr5ccG6hRTb) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [WATERFALL](https://open.spotify.com/album/7opzE9aGkgt8V4fnz6yX5t) | 3:25 | 2021-07-17 | 2021-08-16 |
 | [In the morning](https://open.spotify.com/track/2QdH0rKlV3d9Y6lWzcnlBH) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GUESS WHO](https://open.spotify.com/album/1PKhKkeCqANY5E9RGcUWUX) | 2:52 | 2021-07-17 |  |
 | [Je T'aime](https://open.spotify.com/track/3wS47sXPddjE6rbhU7u20w) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [Je T'aime](https://open.spotify.com/album/1RzqZoXe1bf1f48PK20EeH) | 4:21 | 2021-07-17 | 2021-08-02 |
 | [KISS OR DEATH](https://open.spotify.com/track/6GnB9rbi0bBFdHATpwCzwF) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [KISS OR DEATH](https://open.spotify.com/album/5gTlYqPbpzwB1pkIQWmL5H) | 3:27 | 2021-07-27 |  |
@@ -49,8 +49,10 @@
 | [NAKKA (with IU)](https://open.spotify.com/track/4t2FIqZJORKZGSKg30SShr) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:32 | 2021-07-27 |  |
 | [Next Level](https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Next Level](https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N) | 3:41 | 2021-07-17 |  |
 | [On The Ground](https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [R](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) | 2:48 | 2021-07-17 |  |
+| [Paint Me Naked](https://open.spotify.com/track/4UaGQ2D4MBuRBWumZO52Ma) | [TEN](https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ) | [Paint Me Naked - SM STATION](https://open.spotify.com/album/4oj5R0SVazc5Eq3WnIC0e6) | 3:00 | 2021-08-16 |  |
 | [Permission to Dance](https://open.spotify.com/track/0LThjFY2iTtNdd4wviwVV2) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter / Permission to Dance](https://open.spotify.com/album/1iLUfFVZF8bltkBkONumgG) | 3:07 | 2021-07-17 |  |
 | [PTT (Paint The Town)](https://open.spotify.com/track/5awNIWVrh2ISfvPd5IUZNh) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [[&]](https://open.spotify.com/album/747FhjbZXy5H8frCZ90eDv) | 3:21 | 2021-07-17 |  |
+| [Queendom](https://open.spotify.com/track/6SpPr7K4YQ2wp8jU6uOTmQ) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Queendom - The 6th Mini Album](https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV) | 3:01 | 2021-08-16 |  |
 | [Rain Song (Feat. Colde)](https://open.spotify.com/track/5IWlLl3xT95o8TSv3O8tRH) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Rain Song](https://open.spotify.com/album/1DXAqvIPDtdyTmug9hCX8J) | 4:03 | 2021-07-17 |  |
 | [Ready to love](https://open.spotify.com/track/2FymmKBuog0loCuNXMwQID) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 8th Mini Album 'Your Choice'](https://open.spotify.com/album/79VvXTQNeLr8KmvcdxN0Pc) | 3:06 | 2021-07-17 |  |
 | [riBBon](https://open.spotify.com/track/1Y8KxQUmP1xuaF5mNTYE0x) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [riBBon](https://open.spotify.com/album/4257hXQ3Msts5H4RZGrVHw) | 3:07 | 2021-07-17 |  |

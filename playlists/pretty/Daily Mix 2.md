@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/Daily%20Mix%202.md) - [plain](/playl
 
 ### [Daily Mix 2](https://open.spotify.com/playlist/37i9dQZF1E3aaY83eVbisn)
 
-> Agust D, Alex, VIINI and more
+> EXO, BIGBANG, Agust D and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

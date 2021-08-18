@@ -2,7 +2,7 @@
 
 ### [K-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K-Pop hits! Cover: HA SUNG WOON
+> Future K-Pop hits! Cover: TOMORROW X TOGETHER
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Like a Movie](https://open.spotify.com/track/6dPzi41DQDgzsPJDFffbJO) | [B1A4](https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG) | [Origine](https://open.spotify.com/album/5VzMQgh8F9GOgNPu7LcZUs) | 3:33 | 2020-10-19 | 2021-01-18 |
 | [Like It Hot](https://open.spotify.com/track/0sZ0QRe8BFNPOJ2k80adu1) | [GWSN](https://open.spotify.com/artist/5fI4xffqGRGQvICSlJreMF) | [THE OTHER SIDE OF THE MOON](https://open.spotify.com/album/4W9vkO9c1K2oVvLTNsjWv7) | 3:22 | 2021-05-28 | 2021-07-14 |
 | [LILAC](https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:34 | 2021-03-25 | 2021-06-25 |
+| [LO$ER=LO♡ER](https://open.spotify.com/track/21aOLk12MksET8AsbU0SI6) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FIGHT OR ESCAPE](https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5) | 3:19 | 2021-08-18 |  |
 | [Lock Down](https://open.spotify.com/track/3SCxTtLDtZ6HsQrytAoyLV) | [EPEX](https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT) | [Bipolar Pt.1 Prelude of Anxiety](https://open.spotify.com/album/7vmtkwSVS1bKSvRbQ0ALvY) | 3:27 | 2021-06-16 |  |
 | [Lonely Night](https://open.spotify.com/track/0QMoGqv6sik2E0YEXd72tk) | [YOON DU JUN](https://open.spotify.com/artist/0bjyZMw6TzPhXSp2PoKXx7) | [Daybreak](https://open.spotify.com/album/233QLBM9p2grpC7GMpMK6X) | 3:27 | 2020-10-13 | 2020-10-22 |
 | [Lonely Summer (Summer Breeze)](https://open.spotify.com/track/71ffiCGvOZm7uBYT9Nyg4d) | [Daedo](https://open.spotify.com/artist/0usCrj87bydKRK7KWcCf9p), [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU) | [Lonely Summer (Summer Breeze)](https://open.spotify.com/album/2zQWuOYcx7C4TNTJwz2Nbm) | 3:19 | 2021-07-27 |  |

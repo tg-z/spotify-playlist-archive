@@ -2,7 +2,7 @@
 
 ### [Daily Mix 2](https://open.spotify.com/playlist/37i9dQZF1E3aaY83eVbisn)
 
-> TWICE, Girls' Generation-Oh!GG, KINGDOM and more
+> ITZY, TWICE, BLACKPINK and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

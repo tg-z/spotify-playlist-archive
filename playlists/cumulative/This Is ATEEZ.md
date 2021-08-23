@@ -6,6 +6,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A Little Space (feat. YUNHO, SAN, JONGHO of ATEEZ)](https://open.spotify.com/track/624r3MZSDeOFP2Ciizhxja) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53), [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [A Little Space (feat. YUNHO, SAN, JONGHO of ATEEZ)](https://open.spotify.com/album/4SXsvcrYpEi6NYfjv2qIjA) | 2:54 | 2021-08-23 |  |
 | [Answer](https://open.spotify.com/track/3IdPtyJHB1WVPM4eCiCAKM) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EPILOGUE : Action To Answer](https://open.spotify.com/album/3TTkDOcSzRQCvGMT7VmmPE) | 3:39 | 2021-07-17 |  |
 | [Aurora](https://open.spotify.com/track/2J8tamzlBEX2DWLx9ASTvS) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.3: One To All](https://open.spotify.com/album/4Y8cigF15iNUSV1dhlQqRg) | 3:24 | 2021-07-17 |  |
 | [Better](https://open.spotify.com/track/6di5ScYZxyg0zhToZzowol) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP. Map To Answer](https://open.spotify.com/album/72uRjP7I54EvufnugN1z8i) | 3:35 | 2021-07-17 |  |
@@ -25,7 +26,7 @@
 | [I'm The One - HEAT-TOPPING Version](https://open.spotify.com/track/4h8DDTLayF06jMWIPJlBb3) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.2](https://open.spotify.com/album/1JMc8IZ1Jbax6m5OvswmAB) | 3:52 | 2021-07-17 |  |
 | [Illusion](https://open.spotify.com/track/4hQHA562yLkVKlakkOkz5l) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.3: One To All](https://open.spotify.com/album/4Y8cigF15iNUSV1dhlQqRg) | 3:30 | 2021-07-17 |  |
 | [INCEPTION](https://open.spotify.com/track/7zC6xvBPnIC92K06pMpstY) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.1](https://open.spotify.com/album/01IFxHiVOY6uf3vUFVXEoI) | 3:30 | 2021-07-17 |  |
-| [Intro: Long Journey](https://open.spotify.com/track/2oo6troH6rr5BhAOxqbpGi) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.1: All to Zero](https://open.spotify.com/album/4ayTucmOGwLd0WrJddrUwx) | 1:36 | 2021-07-17 |  |
+| [Intro: Long Journey](https://open.spotify.com/track/2oo6troH6rr5BhAOxqbpGi) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.1: All to Zero](https://open.spotify.com/album/4ayTucmOGwLd0WrJddrUwx) | 1:36 | 2021-07-17 | 2021-08-23 |
 | [Light](https://open.spotify.com/track/2KnNV0Ahhb5qkK83LKymZE) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.2: Zero To One](https://open.spotify.com/album/2PQ8cQ8WzAJJkWYT2Ydmhw) | 3:38 | 2021-07-17 |  |
 | [MIST](https://open.spotify.com/track/52PCrf2tqml44bWLNT58hF) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.FIN: All To Action](https://open.spotify.com/album/4HGhzqQEY1X6WWZw6MhjlO) | 3:19 | 2021-07-17 |  |
 | [My Way](https://open.spotify.com/track/7nm5N2yWWlDp3R9wPSGmj8) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.1: All to Zero](https://open.spotify.com/album/4ayTucmOGwLd0WrJddrUwx) | 3:48 | 2021-07-17 |  |
@@ -42,6 +43,7 @@
 | [Take Me Home](https://open.spotify.com/track/0Fj5sQ4V4fYGVOxkoNUxz1) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.2](https://open.spotify.com/album/1JMc8IZ1Jbax6m5OvswmAB) | 3:41 | 2021-07-17 |  |
 | [THANK U](https://open.spotify.com/track/4ZhE2dQ2MqEgWAgPnKWfhj) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.FIN: All To Action](https://open.spotify.com/album/4HGhzqQEY1X6WWZw6MhjlO) | 3:21 | 2021-07-17 |  |
 | [THANXX](https://open.spotify.com/track/0YXpDiXEQlRmVSAFcub7sE) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.1](https://open.spotify.com/album/01IFxHiVOY6uf3vUFVXEoI) | 3:01 | 2021-07-17 |  |
+| [The Black Cat Nero](https://open.spotify.com/track/5GCkHlq2lxmtSlAhiLpnjq) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Season Songs](https://open.spotify.com/album/7o5jeWeyGW3Nb77WhmVPwJ) | 4:25 | 2021-08-23 |  |
 | [The Leaders](https://open.spotify.com/track/52Sj1SUJ6FNceKLZVggVak) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.2](https://open.spotify.com/album/1JMc8IZ1Jbax6m5OvswmAB) | 3:12 | 2021-07-17 |  |
 | [The Real](https://open.spotify.com/track/1uk5fYLx1f88DLte84Hl5j) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [KINGDOM <FINAL : WHO IS THE KING?>](https://open.spotify.com/album/3n1NaviPQXfiVQ0TarnAf4) | 3:10 | 2021-07-17 |  |
 | [Time Of Love](https://open.spotify.com/track/7CXXE0TJeCjsVIKnnATvmJ) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.2](https://open.spotify.com/album/1JMc8IZ1Jbax6m5OvswmAB) | 2:56 | 2021-07-17 |  |

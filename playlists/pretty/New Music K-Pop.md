@@ -6,7 +6,7 @@ pretty - [cumulative](/playlists/cumulative/New%20Music%20K-Pop.md) - [plain](/p
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Door](https://open.spotify.com/track/3FxEYn2E7dT5A5DT4luQGK) | [KWON EUN BI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [KWON EUN BI 1st Mini Album [OPEN]](https://open.spotify.com/album/3sWCaTJS9BlBIlp2ECBh9t) | 3:19 |
+| 1 | [Door](https://open.spotify.com/track/3FxEYn2E7dT5A5DT4luQGK) | [KWON EUN BI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [OPEN](https://open.spotify.com/album/3sWCaTJS9BlBIlp2ECBh9t) | 3:19 |
 | 2 | [Just Like This (Feat. george)](https://open.spotify.com/track/3ptp3j48p6tPwGEJUCbSu0) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Just Like This](https://open.spotify.com/album/2RpmJwbaKYe0JhlNNENMvi) | 3:19 |
 | 3 | [ICE T](https://open.spotify.com/track/6eNVf9UDzT0wrEFDEHnSus) | [YOUHA](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) | [Sweet-Tea](https://open.spotify.com/album/7BFmhM7GcY5oeseQmyYlpZ) | 3:20 |
 | 4 | [SPICY](https://open.spotify.com/track/0KGn1PDH5cqmD4B8GMVfae) | [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [SPICY](https://open.spotify.com/album/187GdUKB6sx3DZaL6wpxnO) | 3:14 |
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/New%20Music%20K-Pop.md) - [plain](/p
 | 57 | [Paradise](https://open.spotify.com/track/4Lu5ceKlQ9FqzsoqlM7Mkq) | [sucozy](https://open.spotify.com/artist/0UJT6CvlHhWZbgnV1wGakZ), [subin](https://open.spotify.com/artist/1l9uUtOGIbKxJEPEPwiR55) | [Paradise](https://open.spotify.com/album/0EOyjYWQp8iEkF76CDsGFM) | 2:54 |
 | 58 | [Eudaimonia](https://open.spotify.com/track/0VLSZkJfl6mPUrOfBbflFZ) | [The Deep](https://open.spotify.com/artist/0hYtrPQ05Qu1N5r0QcpoDp) | [Eudaimonia](https://open.spotify.com/album/7l43oeMxPlkGwqosQc2FJk) | 3:06 |
 | 59 | [TROUBLE MAKER](https://open.spotify.com/track/05p6Ez6LMSZm6Quhb0QhLj) | [901DCOLA](https://open.spotify.com/artist/0OvaIuuU6DY7SRh0Gq9MUv) | [TROUBLE MAKER](https://open.spotify.com/album/53gExAk44UuhdZLKIc3q7l) | 3:30 |
-| 60 | [trace organ](https://open.spotify.com/track/6dLqphQWh5zEqyYnm1F358) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V), [JEMN](https://open.spotify.com/artist/3bROOtkyZ30ZPt8hVemTK5) | [EASTERN NIGHT](https://open.spotify.com/album/6TT3xrKiSKDn5ifKTNqNQw) | 2:48 |
+| 60 | [vestigial organ](https://open.spotify.com/track/6dLqphQWh5zEqyYnm1F358) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V), [JEMN](https://open.spotify.com/artist/3bROOtkyZ30ZPt8hVemTK5) | [EASTERN NIGHT](https://open.spotify.com/album/6TT3xrKiSKDn5ifKTNqNQw) | 2:48 |
 | 61 | [5 STARS (To not die X Loopy, BLOO)](https://open.spotify.com/track/3pIa8aJvOObCFLzRnKEmut) | [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg), [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [5 STARS (To not die X Loopy, BLOO)](https://open.spotify.com/album/7dNGt83chPpRyZaocO6tcS) | 2:43 |
 | 62 | [Swim In The Ocean](https://open.spotify.com/track/0UKegdEEbAmNYw1NMIGlwi) | [라라 Lara](https://open.spotify.com/artist/1FKYTUBCKMWh2JDdYdWObW) | [Swim In The Ocean](https://open.spotify.com/album/6XA4hSAXBT13DKgBowNZ26) | 4:01 |
 | 63 | [IF](https://open.spotify.com/track/2cFHTpYafyQ6VpiHF80fd2) | [KLANG](https://open.spotify.com/artist/3lxXfdGXe8k188bUZgKqgF) | [Check Out the Event OST Part.2](https://open.spotify.com/album/3xYTqbkLQqCkmiWYPbuwWO) | 4:27 |

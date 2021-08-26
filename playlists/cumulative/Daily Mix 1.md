@@ -2,7 +2,7 @@
 
 ### [Daily Mix 1](https://open.spotify.com/playlist/37i9dQZF1E3agfIzB3uiGU)
 
-> BTS, ENHYPEN, Kang Seung Yoon and more
+> Stray Kids, BTS, DAY6 and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

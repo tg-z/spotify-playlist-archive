@@ -2,7 +2,7 @@
 
 ### [K-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K-Pop hits! Cover: TOMORROW X TOGETHER
+> Future K-Pop hits! Cover: Seori
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -556,3 +556,4 @@ pretty - [cumulative](/playlists/cumulative/kpop.md) - [plain](/playlists/plain/
 | 548 | [Romantic Sunday](https://open.spotify.com/track/73rWOH2yjmriOZGIAyv5kx) | [JISLAND](https://open.spotify.com/artist/7mbEee9lT6kG8TyPN9HEbZ) | [The Memories Of Romance](https://open.spotify.com/album/2MFOuW7DS8x23q6BUjFJDU) | 3:55 |
 | 549 | [Y](https://open.spotify.com/track/3xVGwwax3gAPAkJewnB2eZ) | [MBLAQ](https://open.spotify.com/artist/14f1WN9TUDVBK4sHUStmLG) | [Y](https://open.spotify.com/album/4fajjTR9Fr9mLYV54l6Wh5) | 3:28 |
 | 550 | [Clap](https://open.spotify.com/track/02tK0ekgQFQD8oYXUJ9tby) | [TEEN TOP](https://open.spotify.com/artist/3offPqpKAKmpQkIdWnjzkc) | [Come into the World](https://open.spotify.com/album/4G7NM3jbPkFegKynGna26n) | 3:08 |
+| 551 | [Am I Wrong](https://open.spotify.com/track/1ORnZ5RmTKhVxPrjORKxAE) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Wings](https://open.spotify.com/album/17FnTn4P3Bkyf6mbNQDhhy) | 3:33 |

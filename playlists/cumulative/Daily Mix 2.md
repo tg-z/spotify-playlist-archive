@@ -2,7 +2,7 @@
 
 ### [Daily Mix 2](https://open.spotify.com/playlist/37i9dQZF1E3aaY83eVbisn)
 
-> CHUNG HA, GOT7, Weeekly and more
+> EXO, CIX, SHINee and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

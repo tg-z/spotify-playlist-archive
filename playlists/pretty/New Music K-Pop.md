@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/New%20Music%20K-Pop.md) - [plain](/p
 
 ### [New Music K-Pop](https://open.spotify.com/playlist/37i9dQZF1DXe5W6diBL5N4)
 
-> 신곡 배달! The freshest K-Pop releases are here! (Cover: MCND) (신선한 국내 최신곡들을 플레이리스트로 만나보세요.)
+> 신곡 배달! The freshest K-Pop releases are here! (Cover: Young K(DAY6)) (신선한 국내 최신곡들을 플레이리스트로 만나보세요.)
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

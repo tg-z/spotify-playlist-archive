@@ -2,7 +2,7 @@
 
 ### [Daily Mix 2](https://open.spotify.com/playlist/37i9dQZF1E3aaY83eVbisn)
 
-> EXO, J.Y. Park, 2PM and more
+> EXO, KEY, GOT7 and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

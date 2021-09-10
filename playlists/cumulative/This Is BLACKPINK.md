@@ -2,7 +2,7 @@
 
 ### [This Is BLACKPINK](https://open.spotify.com/playlist/37i9dQZF1DX8kP0ioXjxIA)
 
-> BLACKPINK in our area! BLINKs! ROSÉ solo debut is finally here!
+> BLACKPINK in our area! BLINKs! LALISA is here!
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,14 +25,16 @@
 | [Hope Not](https://open.spotify.com/track/6euC2yxyQA6uztolUYnhiW) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Kill This Love](https://open.spotify.com/album/2Pz8VAMiGc9UW1rrbBRDuO) | 3:11 | 2021-07-17 |  |
 | [How You Like That - JP Ver.](https://open.spotify.com/track/3822UZ47KvFXH7Gy8AFY4P) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM (JP Ver.)](https://open.spotify.com/album/5HZR4Ep8QsjDeVJTKCKv0W) | 3:00 | 2021-08-05 |  |
 | [How You Like That](https://open.spotify.com/track/3vAn0qZzdyuHamcrpkfiX3) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [How You Like That](https://open.spotify.com/album/19LMUlWN7xU2NW80pZSeuH) | 3:01 | 2021-07-17 |  |
-| [Ice Cream (with Selena Gomez)](https://open.spotify.com/track/60jpDubMmVyR5molJp2TCm) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Ice Cream (with Selena Gomez)](https://open.spotify.com/album/0J1uiXQshfRtz2R8lgUlQk) | 2:55 | 2021-07-17 |  |
+| [Ice Cream (with Selena Gomez)](https://open.spotify.com/track/2J4P46vCFm1rPkNkp9pZWX) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Ice Cream (with Selena Gomez)](https://open.spotify.com/album/2VBb4LRcRSACOfJWRUgVZl) | 2:55 | 2021-07-17 |  |
 | [Ice Cream (with Selena Gomez)](https://open.spotify.com/track/2LbKROMbpTnlf7nIv6MERM) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [THE ALBUM (JP Ver.)](https://open.spotify.com/album/5HZR4Ep8QsjDeVJTKCKv0W) | 2:55 | 2021-08-05 |  |
 | [Kick It](https://open.spotify.com/track/6MN6oiT2d7qxYEOwXwgV34) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Kill This Love](https://open.spotify.com/album/2Pz8VAMiGc9UW1rrbBRDuO) | 3:11 | 2021-07-17 |  |
 | [Kill This Love](https://open.spotify.com/track/0M98PvIvx7vZ8LDpzMw1hB) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Kill This Love](https://open.spotify.com/album/2Pz8VAMiGc9UW1rrbBRDuO) | 3:09 | 2021-07-17 |  |
+| [LALISA](https://open.spotify.com/track/10BfqdiV5PhV1UYsMEyou1) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/0IL9eNM4gfkmTqdwiJy63d) | 3:20 | 2021-09-10 |  |
 | [Love To Hate Me](https://open.spotify.com/track/09JE599HkmbidwGWyD4ZGy) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/5jI79QM3CJiSELceqwVe78) | 2:49 | 2021-07-17 |  |
 | [Love To Hate Me](https://open.spotify.com/track/4Xqc26p92OEcLWtfyaqHnN) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM (JP Ver.)](https://open.spotify.com/album/5HZR4Ep8QsjDeVJTKCKv0W) | 2:49 | 2021-08-05 |  |
 | [Lovesick Girls - JP Ver.](https://open.spotify.com/track/09vMdvv4GzBC6r6O7fMFFb) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM (JP Ver.)](https://open.spotify.com/album/5HZR4Ep8QsjDeVJTKCKv0W) | 3:12 | 2021-08-05 |  |
 | [Lovesick Girls](https://open.spotify.com/track/4Vhvlhomv8fTp2e6I4XTpe) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/5jI79QM3CJiSELceqwVe78) | 3:12 | 2021-07-17 |  |
+| [MONEY](https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 2:48 | 2021-09-10 |  |
 | [On The Ground](https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [R](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) | 2:48 | 2021-07-17 |  |
 | [PLAYING WITH FIRE - Japanese Version](https://open.spotify.com/track/2IbQ5hQVrzg4e6bNruEqOs) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BLACKPINK](https://open.spotify.com/album/6vl7a0PooHBuDRLrtNeUL0) | 3:17 | 2021-07-17 |  |
 | [PLAYING WITH FIRE](https://open.spotify.com/track/7e7VjLxO5xJINHvnRytrqi) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE TWO](https://open.spotify.com/album/2s27rRgZswwbRJUQXSGTLf) | 3:17 | 2021-07-17 |  |

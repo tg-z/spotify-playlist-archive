@@ -6,6 +6,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [0X1=LOVESONG (I Know I Love You) feat. MOD SUN](https://open.spotify.com/track/2BS6hEI43E8Rx1vDwG7B2N) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [0X1=LOVESONG (I Know I Love You) feat. MOD SUN](https://open.spotify.com/album/4mz8WmQHMhE51kERBJt7oK) | 3:38 | 2021-09-10 |  |
 | [0X1=LOVESONG (I Know I Love You) feat. pH-1, Woodie Gochild, Seori](https://open.spotify.com/track/6jUqjExnh8QBGd7RtnAIJF) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [0X1=LOVESONG (I Know I Love You) feat. pH-1, Woodie Gochild, Seori](https://open.spotify.com/album/2g6eRzETrUKRIBC8QnjAE1) | 3:25 | 2021-07-17 |  |
 | [0X1=LOVESONG (I Know I Love You) feat. Seori (Emocore Mix)](https://open.spotify.com/track/6XtPOQQmTO5hLdaD8ICyEU) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FIGHT OR ESCAPE](https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5) | 3:38 | 2021-08-18 |  |
 | [0X1=LOVESONG (I Know I Love You) feat. Seori](https://open.spotify.com/track/3lyibc1saJfWe5z7rTyWYO) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FIGHT OR ESCAPE](https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5) | 3:22 | 2021-08-18 |  |

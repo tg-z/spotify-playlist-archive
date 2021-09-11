@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/Daily%20Mix%202.md) - [plain](/playl
 
 ### [Daily Mix 2](https://open.spotify.com/playlist/37i9dQZF1E3aaY83eVbisn)
 
-> EXO, VIINI, TAEMIN and more
+> EXO, MCND, WayV-TEN&YANGYANG and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -6,7 +6,7 @@ pretty - [cumulative](/playlists/cumulative/New%20Music%20K-Pop.md) - [plain](/p
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [LALISA](https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 3:20 |
+| 1 | [LALISA](https://open.spotify.com/track/10BfqdiV5PhV1UYsMEyou1) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/0IL9eNM4gfkmTqdwiJy63d) | 3:20 |
 | 2 | [0X1=LOVESONG (I Know I Love You) feat. MOD SUN](https://open.spotify.com/track/2BS6hEI43E8Rx1vDwG7B2N) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [0X1=LOVESONG (I Know I Love You) feat. MOD SUN](https://open.spotify.com/album/4mz8WmQHMhE51kERBJt7oK) | 3:38 |
 | 3 | [A Walk](https://open.spotify.com/track/07o59OvDiUuVpAbGNntwCy) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Love, Yerin](https://open.spotify.com/album/2K41KAlW6n9bVlRCQPVcSZ) | 3:25 |
 | 4 | [PADO](https://open.spotify.com/track/1PSDpiTgnkxHc7GhKrHCaA) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [PADO](https://open.spotify.com/album/3iW45o3MaH1WmO9KpURWit) | 3:13 |

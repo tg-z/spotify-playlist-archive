@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/Daily%20Mix%202.md) - [plain](/playl
 
 ### [Daily Mix 2](https://open.spotify.com/playlist/37i9dQZF1E3aaY83eVbisn)
 
-> EXO, Stray Kids, SHINee and more
+> TOMORROW X TOGETHER, Stray Kids, BTS and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

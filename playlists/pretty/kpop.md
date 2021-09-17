@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/kpop.md) - [plain](/playlists/plain/
 
 ### [kpop](https://open.spotify.com/playlist/5wFOwKjb14nlMzOHLP1Fs0)
 
-> kpop, krnb, and khh best enjoyed on shuffle &lt;3
+> kpop, krnb, and khh best enjoyed on shuffle &lt;3 (keshi is on this playlist cause i wanna listen to him on this playlist -- i know his music isn&#x27;t kpop)
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -648,3 +648,4 @@ pretty - [cumulative](/playlists/cumulative/kpop.md) - [plain](/playlists/plain/
 | 640 | [Antidote](https://open.spotify.com/track/34U33Fr2hM6wWkjvdpiwS6) | [KANG DANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [YELLOW](https://open.spotify.com/album/4igVZxLMxQDV7D94RzW6cw) | 3:38 |
 | 641 | [On The Ground](https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [R](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) | 2:48 |
 | 642 | [Pose](https://open.spotify.com/track/6RTF5urAOB5C52nLxeRK5h) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Queendom - The 6th Mini Album](https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV) | 3:20 |
+| 643 | [GOTTASADAE](https://open.spotify.com/track/5nJvKQsFRmCp2i7EiKjZDg) | [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K) | [The Movie Star](https://open.spotify.com/album/428Nty0MTSDzAbUWG31Yoi) | 2:13 |

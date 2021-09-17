@@ -2,7 +2,7 @@
 
 ### [kpop](https://open.spotify.com/playlist/5wFOwKjb14nlMzOHLP1Fs0)
 
-> kpop, krnb, and khh best enjoyed on shuffle &lt;3
+> kpop, krnb, and khh best enjoyed on shuffle &lt;3 (keshi is on this playlist cause i wanna listen to him on this playlist -- i know his music isn&#x27;t kpop)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,6 +235,7 @@
 | [Goodnight, Summer](https://open.spotify.com/track/3vGf3yROxDOWNyTR2U1nCF) | [SUNGMIN](https://open.spotify.com/artist/2O46GIp2cr4sZaVPcP0ket) | [Goodnight, Summer](https://open.spotify.com/album/4cwHberlTlJNyJecNqOTdY) | 3:28 | 2021-09-10 |  |
 | [Got It Like That](https://open.spotify.com/track/2RFzaIg3tJhvJdNIUqvr9R) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu), [Tyla Yaweh](https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr) | [Got It Like That](https://open.spotify.com/album/4LIOJLYeTXrz6rvfk0O6xK) | 2:58 | 2021-07-17 |  |
 | [Gotta Go](https://open.spotify.com/track/1exnDFdC34GyBcaLt9ZJfX) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Gotta Go](https://open.spotify.com/album/3WgHekDElv10Kam9aCMwnx) | 3:41 | 2021-08-04 |  |
+| [GOTTASADAE](https://open.spotify.com/track/5nJvKQsFRmCp2i7EiKjZDg) | [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K) | [The Movie Star](https://open.spotify.com/album/428Nty0MTSDzAbUWG31Yoi) | 2:13 | 2021-09-17 |  |
 | [Growl](https://open.spotify.com/track/4pi0Elz7B7cLfw37J3bYm9) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [The 1st Album 'XOXO' (Repackage)](https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA) | 3:27 | 2021-08-06 |  |
 | [Grrr 총량의 법칙](https://open.spotify.com/track/1oXPJ9hS9fjFiQyQSOChu8) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Mixtape](https://open.spotify.com/album/2vkaB3rUSU7S59iqy2pbj4) | 3:09 | 2021-07-27 |  |
 | [Guard You](https://open.spotify.com/track/3AQLNP4d68hIenp2KpwLlp) | [Young K](https://open.spotify.com/artist/6mNk6ugGIlgVhtDw5dQmCX) | [Eternal](https://open.spotify.com/album/6JuoNIefYEpSGTT0lUMIX3) | 3:17 | 2021-09-10 |  |

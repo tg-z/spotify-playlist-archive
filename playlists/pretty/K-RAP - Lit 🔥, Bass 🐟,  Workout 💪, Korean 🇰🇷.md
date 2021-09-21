@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/K-RAP%20-%20Lit%20🔥,%20Bass%20�
 
 ### [K-RAP - Lit 🔥, Bass 🐟,  Workout 💪, Korean 🇰🇷](https://open.spotify.com/playlist/28V1E5kStIqcYZwV3nH6KU)
 
-> ✅ Curated Playlist ✅ Only the best mainstream&#x2F;underground Korean Rap. {Photo by Donny Jiang on Unsplash} 
+> ✅ Curated Playlist Only the best mainstream&#x2F;underground Korean Rap. {Photo by Donny Jiang on Unsplash} 
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

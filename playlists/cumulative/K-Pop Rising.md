@@ -2,7 +2,7 @@
 
 ### [K-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K-Pop hits! Cover: ATEEZ
+> Future K-Pop hits! Cover: Yang Yoseob
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [BOCA](https://open.spotify.com/track/37Ctz6MOHM2thzNIOMo7Z0) | [DREAMCATCHER](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [[Dystopia : Lose Myself]](https://open.spotify.com/album/4tKKN5LO7CcTOcsSV3OmMQ) | 3:09 | 2020-10-13 | 2021-01-27 |
 | [Bon voyage](https://open.spotify.com/track/4X95Ecd1elHxTccGOko02c) | [YooA](https://open.spotify.com/artist/4ur1jCwyNlhgd0viJkOtcQ) | [Bon Voyage](https://open.spotify.com/album/2dFsfVOAwvmRV8hOBdssiI) | 3:39 | 2020-10-13 | 2021-01-27 |
 | [BOY](https://open.spotify.com/track/6SqOpxXMMS8axhJoqz8Nel) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE FIRST STEP : CHAPTER ONE](https://open.spotify.com/album/7IGNNe8FGyEtOZdoUBjLPw) | 3:16 | 2020-10-13 | 2021-02-15 |
+| [BRAIN](https://open.spotify.com/track/4lAToXJW9Lvc8etF42IcoF) | [Yang Yoseob](https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd) | [Chocolate Box](https://open.spotify.com/album/4ilhdkJzJudY6RBp0PifGw) | 3:28 | 2021-09-22 |  |
 | [Breath](https://open.spotify.com/track/2tVkFxyePqB0o4Y4SYKV0Q) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Breath](https://open.spotify.com/album/2DUCTJhmXzOWNpjYnzt7Sz) | 3:07 | 2020-11-23 | 2021-04-22 |
 | [Breathe Again](https://open.spotify.com/track/5bAgMDRLG5YKdXwOU7KVAe) | [BLITZERS](https://open.spotify.com/artist/3Exoh42YMeqnUvYahAGgUE) | [CHECK-IN](https://open.spotify.com/album/1ByTvinHUbdfpRMqxzGCUr) | 3:34 | 2021-05-19 | 2021-06-25 |
 | [Broken Me](https://open.spotify.com/track/6PiOBvjLSb1UD9wtqwplUG) | [BM](https://open.spotify.com/artist/5lZV4z4dpX6IfTYlfUMvOE) | [Broken Me](https://open.spotify.com/album/26iymt2wG3Bw53mmX5AbvB) | 3:24 | 2021-06-11 | 2021-08-04 |

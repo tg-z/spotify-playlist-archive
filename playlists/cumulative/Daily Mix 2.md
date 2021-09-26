@@ -2,7 +2,7 @@
 
 ### [Daily Mix 2](https://open.spotify.com/playlist/37i9dQZF1E3aaY83eVbisn)
 
-> BIGBANG, SUNMI, JENNIE and more
+> BLACKSWAN, TWICE, IZ*ONE and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

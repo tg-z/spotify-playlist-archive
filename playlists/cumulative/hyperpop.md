@@ -2,7 +2,7 @@
 
 ### [hyperpop](https://open.spotify.com/playlist/37i9dQZF1DX7HOk71GPfSw)
 
-> new music from That Kid, Namasenda, Alice (hbd), p4rkr... 
+> new music from That Kid, SEBii, midwxst, Clarence Clarity & Yung Skrrt
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -626,6 +626,7 @@
 | [PURGATORY](https://open.spotify.com/track/0da359GWioYEG628VtWHmA) | [AVA AKIRA](https://open.spotify.com/artist/1jg5LFnnLAIEbTc6rb9bgn), [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [PURGATORY](https://open.spotify.com/album/62V6xIUnKmVZBk0MDKy8TV) | 3:48 | 2021-09-03 | 2021-09-22 |
 | [Quarantine Rly Sucks](https://open.spotify.com/track/3RF2UQXjo6IcIUzdNwoWb5) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [Quarantine Rly Sucks](https://open.spotify.com/album/59zgqNSVCJOqIQ3Ra12DS6) | 1:18 | 2020-10-13 | 2020-11-14 |
 | [Queen Of This Shit](https://open.spotify.com/track/6JrmHzxhaaavRtlXTOhm63) | [Quay Dash](https://open.spotify.com/artist/6k6lSmhyFpe2oYcredvZHM) | [Queen Of This Shit](https://open.spotify.com/album/6qu9QGQPrAlTOJLGeKeQBK) | 3:06 | 2021-02-10 | 2021-02-26 |
+| [R U Joking - Danny L Harle Remix](https://open.spotify.com/track/1Agiao4UFe2wdH1FNIaChZ) | [Ravenna Golden](https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC), [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD) | [R U Joking (Danny L Harle Remix)](https://open.spotify.com/album/2MN3Uvp1NoJLfR6tMkgP9c) | 4:34 | 2021-09-27 |  |
 | [R U Joking](https://open.spotify.com/track/65j6PiwyBAv8ZfAsRanCoz) | [Ravenna Golden](https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC) | [R U Joking](https://open.spotify.com/album/7dxDwvuLVGd7R37WPDxGi7) | 1:41 | 2021-05-22 |  |
 | [Racked](https://open.spotify.com/track/6Puwg0sgPn5ByIXy4srRCj) | [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK) | [MONEYSUTRA](https://open.spotify.com/album/6yxdybIsZMRnsAAMR1A2vf) | 3:04 | 2021-05-08 | 2021-05-15 |
 | [rain](https://open.spotify.com/track/5JrAqTj1E510Fv5ZkpvnnD) | [kurtains](https://open.spotify.com/artist/7b2FbxYmnpGMPqDe04QmyP) | [rain](https://open.spotify.com/album/5RYBKuCl0arFsArfeEPdpy) | 1:43 | 2020-10-13 | 2021-02-10 |
@@ -641,6 +642,7 @@
 | [Ravestar](https://open.spotify.com/track/1cFTb4PQML3h7jlBdE9AP5) | [111nightshift](https://open.spotify.com/artist/29j2O8FnYrHOx7Kh8qFOPn), [funeral](https://open.spotify.com/artist/3f0Mhz0oXmnsnehuEGTrfd) | [Ravestar](https://open.spotify.com/album/1HMrkkWnll81mPvWduihY3) | 1:25 | 2021-03-16 | 2021-09-23 |
 | [READY2DIE](https://open.spotify.com/track/7nMQJcQNM2DxyU7ZQcJ8cj) | [JIMMY EDGAR](https://open.spotify.com/artist/3qIRQKST5KCIIKWgmPTY2M), [Messer](https://open.spotify.com/artist/4kOFcUhUaAuaSvpuZm02fG) | [CHEETAH BEND](https://open.spotify.com/album/1gr8k1Sxe6umDlEMNgTGuI) | 2:58 | 2021-02-26 | 2021-09-16 |
 | [real ones](https://open.spotify.com/track/2m5AZSSZMJGtldtA6wMji4) | [Kazi](https://open.spotify.com/artist/5AS6c56mjqwIGujc81FTVh) | [real ones](https://open.spotify.com/album/6Dtq8nRuIjMahzo4VZbZP6) | 1:01 | 2021-08-06 | 2021-09-23 |
+| [reason (feat. Noahh and Rosesleeves)](https://open.spotify.com/track/3hm66nsdSsv2hi2f9RQf0N) | [Ezekiel](https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q), [Noahh](https://open.spotify.com/artist/1Vk8Xbn8TTDtYlCOEanuc8), [Rosesleeves](https://open.spotify.com/artist/6C5SxIdYMB0Yw8eLjlVtX4) | [reason (feat. Noahh and Rosesleeves)](https://open.spotify.com/album/7mcdsabaesbh0NsKLbgmjf) | 2:49 | 2021-09-27 |  |
 | [RECLUSE](https://open.spotify.com/track/3EbXgR0FKdx8ibKXsnyn6B) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [RECLUSE](https://open.spotify.com/album/61oqQrXlEan7VqYiZaMc7A) | 1:29 | 2021-06-12 | 2021-06-26 |
 | [redemption arc](https://open.spotify.com/track/3ZqStclSxlGItjISkfVo2d) | [Lil Wet Wet](https://open.spotify.com/artist/3E4Auo7RcMp3BgGnwKNSXZ), [keyblayde808](https://open.spotify.com/artist/06SF4BIHG5xinTaS2x59qG), [Haloes](https://open.spotify.com/artist/1TEfU1pT7BStxlbU8a7Hmw) | [redemption arc](https://open.spotify.com/album/1ZoGPj3iFtZuKM0faSjpqu) | 2:09 | 2021-06-05 | 2021-06-21 |
 | [redeyes](https://open.spotify.com/track/0K6uoThGKsRQVvnK6bJ8rL) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD), [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [redeyes](https://open.spotify.com/album/3kjCy4GrzeS4CaTELvfVc9) | 2:41 | 2020-10-16 | 2021-02-10 |
@@ -885,4 +887,5 @@
 | [Your favorite sidekick](https://open.spotify.com/track/0VNjaRcmIowjLbPtYDhLuh) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7), [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [fishmonger](https://open.spotify.com/album/5o9aTepLhqQL2gXuKPhd8g) | 2:30 | 2021-04-03 |  |
 | [yukinoshita](https://open.spotify.com/track/1AhPkObhob3cgWrSjPQHwA) | [miraie](https://open.spotify.com/artist/3U2oWd07HPgl60o8RBMG4P), [kid sora](https://open.spotify.com/artist/515DCsL7PUKhEkrY6au52K) | [Fatebound](https://open.spotify.com/album/46saCYLwSA8RlUJ5hs5qDe) | 2:13 | 2021-09-10 |  |
 | [zombie](https://open.spotify.com/track/09tiYhQHSItKJ2JLPeVXi9) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [zombie](https://open.spotify.com/album/1LAUIgeOi3NvCuQMISGm85) | 2:13 | 2021-01-08 | 2021-02-10 |
+| [Zone Zoom Galactic](https://open.spotify.com/track/7dEwRlORtbUiPvfxNKbVTy) | [Yung Skrrt](https://open.spotify.com/artist/1OrSb6vu3ybhKsSY50R5HU) | [Galactic Propellerhead](https://open.spotify.com/album/1rCNjbvJooGcQOf9Y1Ufgl) | 2:56 | 2021-09-27 |  |
 | [ВЫШЕ ВСЕХ](https://open.spotify.com/track/3KVmbzgGusT03gL1VMWkeA) | [ЕГОР НАТС](https://open.spotify.com/artist/6zNJCgmbt1BbC9d9HWPaHx) | [ВЫШЕ ВСЕХ](https://open.spotify.com/album/5nxOIkFKz5oDZ5qdoAVnUM) | 2:22 | 2021-08-06 |  |

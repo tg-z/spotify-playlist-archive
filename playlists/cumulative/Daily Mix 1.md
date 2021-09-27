@@ -2,7 +2,7 @@
 
 ### [Daily Mix 1](https://open.spotify.com/playlist/37i9dQZF1E3agfIzB3uiGU)
 
-> Stray Kids, BTS, TOMORROW X TOGETHER and more
+> TOMORROW X TOGETHER, BTS, Stray Kids and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

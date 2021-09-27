@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/Daily%20Mix%202.md) - [plain](/playl
 
 ### [Daily Mix 2](https://open.spotify.com/playlist/37i9dQZF1E3aaY83eVbisn)
 
-> BLACKSWAN, TWICE, IZ*ONE and more
+> BLACKPINK, TWICE, Red Velvet and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

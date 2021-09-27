@@ -2,7 +2,7 @@
 
 ### [Daily Mix 2](https://open.spotify.com/playlist/37i9dQZF1E3aaY83eVbisn)
 
-> BLACKSWAN, TWICE, IZ*ONE and more
+> BLACKPINK, TWICE, Red Velvet and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

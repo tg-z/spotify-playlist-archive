@@ -2,7 +2,7 @@
 
 ### [K-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K-Pop hits! Cover: Yang Yoseob
+> Future K-Pop hits! Cover: AB6IX
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Carabiner (Prod. GroovyRoom)](https://open.spotify.com/track/0utN0m9bi6E5oqZz7cK4QD) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB) | [Carabiner (Prod. GroovyRoom)](https://open.spotify.com/album/5aaApDk27rQCrgGotit7wC) | 3:31 | 2021-07-15 | 2021-07-16 |
 | [CARDIGAN (feat. Wonstein)](https://open.spotify.com/track/2ZEJPpvO2j1KDx9UxShxID) | [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [ROSES](https://open.spotify.com/album/0Q5HDqny1SbvWqXCByWIql) | 3:14 | 2021-06-04 | 2021-07-01 |
 | [Celebrity](https://open.spotify.com/track/4RewTiGEGoO7FWNZUmp1f4) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Celebrity](https://open.spotify.com/album/3mtDgtcl4bxDN73kIM216g) | 3:15 | 2021-01-27 | 2021-03-01 |
+| [CHERRY](https://open.spotify.com/track/5UCTT2liT61iPL2cCV9Gto) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [MO’ COMPLETE](https://open.spotify.com/album/4TlJp8jSxKfJg0cuwONLef) | 3:30 | 2021-09-27 |  |
 | [Chi Mat Ba Ram](https://open.spotify.com/track/7od91jr6uXk0JoxVaIRA18) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Summer Queen](https://open.spotify.com/album/2x10RN9oP665I7gyP1UNUi) | 3:37 | 2021-06-18 | 2021-08-10 |
 | [Christmassy!](https://open.spotify.com/track/1KMc5CXwEkjklwSqPMQjB1) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ Special Single 'Christmassy!'](https://open.spotify.com/album/5KR9XuMapeh6JjUdcy4MHM) | 3:25 | 2020-12-08 | 2021-02-15 |
 | [Cinema](https://open.spotify.com/track/45WEkgFSP5Af8Huepaj4P1) | [CIX](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) | [CIX 4th EP Album ‘HELLO’ Chapter Ø. Hello, Strange Dream](https://open.spotify.com/album/6uQFA464X4qBT7QOEmZlBm) | 3:12 | 2021-02-03 | 2021-05-11 |

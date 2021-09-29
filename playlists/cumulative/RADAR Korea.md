@@ -2,7 +2,7 @@
 
 ### [RADAR Korea](https://open.spotify.com/playlist/37i9dQZF1DX9IALXsyt8zk)
 
-> Unearthing up and coming Korean acts. Cover: Gaho
+> Unearthing up-and-coming Korean acts. Cover: HOT ISSUE
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,8 +45,9 @@
 | [I can't make you love me](https://open.spotify.com/track/1QcQ79sEzmEbUG1oR8iNM6) | [KINDA BLUE](https://open.spotify.com/artist/264XvBSD6pFn1eDvWSWMI8), [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [I can't make you love me](https://open.spotify.com/album/5IXPrB8V5bV6tl9Eh09jxa) | 2:38 | 2021-08-05 |  |
 | [I can’t wait! (Feat. Loco)](https://open.spotify.com/track/6SkolGkohN2ZTaQd2snyoq) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [I can’t wait! (Feat. Loco)](https://open.spotify.com/album/6SvhGSqbx0vo7WtxLXKkyf) | 3:07 | 2021-07-17 | 2021-08-19 |
 | [I Got U](https://open.spotify.com/track/23W0eq63H9sTGG8SjJu6Ke) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Gatcha!](https://open.spotify.com/album/2LQ1gERkYGpu5pGpUoLNjr) | 3:15 | 2021-07-17 | 2021-08-26 |
-| [I Love You](https://open.spotify.com/track/1iXp6nVYjDaEBeLTKY0PqK) | [SONG JU HEE](https://open.spotify.com/artist/7kJY46aPgzdoIlDJbSvxzC) | [I Love You](https://open.spotify.com/album/2chJGoElJxhS6plj3M2UsN) | 3:56 | 2021-09-09 |  |
+| [I Love You](https://open.spotify.com/track/1iXp6nVYjDaEBeLTKY0PqK) | [SONG JU HEE](https://open.spotify.com/artist/7kJY46aPgzdoIlDJbSvxzC) | [I Love You](https://open.spotify.com/album/2chJGoElJxhS6plj3M2UsN) | 3:56 | 2021-09-09 | 2021-09-29 |
 | [ICE T](https://open.spotify.com/track/6eNVf9UDzT0wrEFDEHnSus) | [YOUHA](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) | [Sweet-Tea](https://open.spotify.com/album/7BFmhM7GcY5oeseQmyYlpZ) | 3:20 | 2021-08-26 |  |
+| [ICONS](https://open.spotify.com/track/0eYUPGR0tB6pP5YvE3zXaU) | [HOT ISSUE](https://open.spotify.com/artist/16C7FRln711ggylepawmpq) | [ICONS](https://open.spotify.com/album/4BuL7zE1QTDoSlij13X4XI) | 3:08 | 2021-09-29 |  |
 | [Irrelevant Answer](https://open.spotify.com/track/3IPaUN3I7fVDaYBqjOBHDB) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Irrelevant Answer](https://open.spotify.com/album/1IDA58hI66YgQsf5niPAnU) | 2:56 | 2021-08-26 |  |
 | [Jay Park](https://open.spotify.com/track/0ZPT0Ntbh8a6L1B2xJ3Atr) | [Queen WA$ABII](https://open.spotify.com/artist/5FQWaF32sJ8rXb8aPcj2VI), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Jay Park](https://open.spotify.com/album/5yZvGKoOzgl5LlR3i1Obpm) | 2:58 | 2021-07-17 |  |
 | [KARMA](https://open.spotify.com/track/7r0SUODm7Wq4yTpT2KKtg8) | [KINGDOM](https://open.spotify.com/artist/0p5Ot7c8cFHtS82hd1WBN3) | [History Of Kingdom: Part II . Chiwoo](https://open.spotify.com/album/3t29EYNXWXk1GQcNxKZATU) | 3:56 | 2021-07-17 |  |

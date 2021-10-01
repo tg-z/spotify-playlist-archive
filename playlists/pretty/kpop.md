@@ -721,3 +721,4 @@ pretty - [cumulative](/playlists/cumulative/kpop.md) - [plain](/playlists/plain/
 | 713 | [Paradise](https://open.spotify.com/track/1x9CUUDTZpk8wpeGH9ZAzW) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [The Other Side](https://open.spotify.com/album/0WkJMdNXAtv5UvJaBUeNRq) | 3:26 |
 | 714 | [HERO](https://open.spotify.com/track/6gorwqDJ7bsdCHcVs5uS9u) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [RUSH](https://open.spotify.com/album/0ESTAnvX2zjMBxzesNAiR7) | 3:51 |
 | 715 | [Teenager](https://open.spotify.com/track/7fiiia7w18MLmPBcjmxeFJ) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [7 for 7](https://open.spotify.com/album/16Ul1UuhyHVi3iyHuq2rHf) | 3:09 |
+| 716 | [CLOVER](https://open.spotify.com/track/3My99grIJuaoo7J4OuBFLB) | [fromis_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [To. Day](https://open.spotify.com/album/6CqQ6nEVcrFkQ0gJRy5nWR) | 3:21 |

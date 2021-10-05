@@ -2,7 +2,7 @@
 
 ### [This Is GOT7](https://open.spotify.com/playlist/37i9dQZF1DX4AYptQIdI2R)
 
-> Ahgases! No goodbyes, check out the boys' solo tracks!
+> Ahgases! The boys have dropped their solo tracks! Check them out!
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [TITANIC (feat. Rich Brian)](https://open.spotify.com/track/6k6pPAqLxleqb3fbMtVjxe) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [MIRRORS](https://open.spotify.com/album/38Haveja8WznqiccCDJKHz) | 2:21 | 2021-07-17 |  |
 | [TOUCH](https://open.spotify.com/track/5nOofjl5oaTWGeivGfNzDs) | [Jus2](https://open.spotify.com/artist/1pXX6uuufA0Zrk4Ksuh4nv) | [FOCUS](https://open.spotify.com/album/2QjrhGUZWWHnUFEMFzCsx5) | 3:19 | 2021-07-17 |  |
 | [TRUST MY LOVE](https://open.spotify.com/track/2A6ipjxIZnIBWj09CPftUG) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [DYE](https://open.spotify.com/album/5lX6uJNNwzEZU7TF1RyAdT) | 3:12 | 2021-07-17 |  |
+| [Vibin](https://open.spotify.com/track/3nbTkTlILrKTGpjF6X8pEN) | [Youngjae](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [COLORS from Ars](https://open.spotify.com/album/1nq1Qy5rv1VKFV6HbbSv8c) | 3:22 | 2021-10-05 |  |
 | [Waiting For You](https://open.spotify.com/track/0nC5ebLXfpgOKOw05joNkq) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Breath of Love: Last Piece](https://open.spotify.com/album/5vL6vinpOUVWOV2T8VjL4H) | 2:54 | 2021-07-17 |  |
 | [WAVE](https://open.spotify.com/track/1aLzIbvBMPf8ol2zuZdkEx) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Breath of Love : Last Piece](https://open.spotify.com/album/65q29w9jyM9QL2u55MJyij) | 3:14 | 2021-07-17 |  |
 | [We Are Young](https://open.spotify.com/track/2kodbMeIJaydSa0gni4g7j) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Breath of Love : Last Piece](https://open.spotify.com/album/65q29w9jyM9QL2u55MJyij) | 3:30 | 2021-07-17 |  |

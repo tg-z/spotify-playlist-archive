@@ -2,7 +2,7 @@
 
 ### [2010s Hits](https://open.spotify.com/playlist/1tPWTwuxOLsE2Do1JQSUxA)
 
-> Throwing back to some of the biggest 2010s anthems of the decade from Little Mix, Beyoncé, P!nk and Alicia Keys. 
+> Throwing back to some of the biggest 2010s anthems of the decade from Beyoncé, Alicia Keys, John Legend and many more. 
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Hello](https://open.spotify.com/track/4aebBr4JAihzJQR0CiIZJv) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/7uwTHXmFa1Ebi5flqBosig) | 4:55 | 2020-10-20 |  |
 | [Hey, Soul Sister](https://open.spotify.com/track/1UDCuS38KBxXufAkkNNgVX) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Feel Good Friday](https://open.spotify.com/album/1bNlBFmUkqsRu6Fsa9jzAV) | 3:36 | 2020-10-20 |  |
 | [Him & I (with Halsey)](https://open.spotify.com/track/5k38wzpLb15YgncyWdTZE4) | [G-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [The Beautiful & Damned](https://open.spotify.com/album/1VAc77UvK5wj8ZSWCo3V2b) | 4:28 | 2020-12-14 | 2021-03-06 |
+| [Hold Up](https://open.spotify.com/track/0rzNMzZsubFcXSEh7dnem7) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 3:41 | 2021-10-05 |  |
 | [Hotline Bling](https://open.spotify.com/track/0wwPcA6wtMf6HUMpIRdeP7) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 4:27 | 2020-10-20 | 2021-03-06 |
 | [How Deep Is Your Love](https://open.spotify.com/track/22mek4IiqubGD9ctzxc69s) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Disciples](https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB) | [How Deep Is Your Love](https://open.spotify.com/album/3cG32DOXJoYlOHMmJIaQsm) | 3:32 | 2020-12-18 |  |
 | [Human](https://open.spotify.com/track/58zsLZPvfflaiIbNWoA22O) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Human (Deluxe)](https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng) | 3:20 | 2020-10-20 |  |
@@ -139,7 +140,7 @@
 | [Summer](https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Motion](https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS) | 3:42 | 2020-10-20 |  |
 | [Sure Thing](https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 3:15 | 2020-11-27 | 2021-03-06 |
 | [Sweater Weather](https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/6iu2XwoDlKg0VYte9qAbnr) | 4:00 | 2020-11-27 |  |
-| [Sweet Dreams](https://open.spotify.com/track/2wNGoon7FlKnVEyYS1ZRBQ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE - Platinum Edition](https://open.spotify.com/album/3ROfBX6lJLnCmaw1NrP5K9) | 3:27 | 2021-02-13 |  |
+| [Sweet Dreams](https://open.spotify.com/track/2wNGoon7FlKnVEyYS1ZRBQ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE - Platinum Edition](https://open.spotify.com/album/3ROfBX6lJLnCmaw1NrP5K9) | 3:27 | 2021-02-13 | 2021-10-05 |
 | [Sweet Nothing (feat. Florence Welch)](https://open.spotify.com/track/24LS4lQShWyixJ0ZrJXfJ5) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Florence Welch](https://open.spotify.com/artist/0IROOdQ2fQUcoaEPqt1Isg) | [18 Months](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT) | 3:32 | 2021-03-06 |  |
 | [Take Me To Church](https://open.spotify.com/track/3dYD57lRAUcMHufyqn9GcI) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/0Uv83rRhY5QvHKkQoULRKk) | 4:01 | 2020-10-20 | 2021-09-03 |
 | [That's My Girl](https://open.spotify.com/track/0F2HPooQ20wUQxOOued2JV) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [7/27 (Deluxe)](https://open.spotify.com/album/24L75CzM3lqg3yAm4oTIVR) | 3:23 | 2021-03-06 |  |

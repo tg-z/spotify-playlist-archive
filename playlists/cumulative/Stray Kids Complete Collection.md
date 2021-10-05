@@ -2,7 +2,7 @@
 
 ### [Stray Kids Complete Collection](https://open.spotify.com/playlist/3DpapJ4IaeteMlgRXbays7)
 
-> Stray Kids•3RACHA•NOEASY + drive bang chan, lee know + 오늘 밤 나는 불을 켜 up all night + 향기만 남아 + HaPpY + 3108 + wish you back + piece + 좋으니까 + alien + maknae on top + love again + 꼬마별 + 너였다면 + i got it  + 그렇게 있어 줘 + cypher + congratulations + 00s psycho + 인정하기 싫어 + 예뻤어 + streetlight + close + start
+> Stray Kids•3RACHA + drive bang chan, lee know + 오늘 밤 나는 불을 켜 up all night + 향기만 남아 + HaPpY + 3108 + wish you back + piece + 좋으니까 + alien + maknae on top + love again + 꼬마별 + 너였다면 + i got it  + 그렇게 있어 줘 + cypher + congratulations + 00s psycho + 인정하기 싫어 + 예뻤어 + streetlight + close + start
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Red Lights (Bang Chan, Hyunjin)](https://open.spotify.com/track/2mUKh4aIxzXHHd0v9CSd8b) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [NOEASY](https://open.spotify.com/album/2CJBaCutKdBiFrWmdzioPS) | 3:09 | 2021-08-23 |  |
 | [Road Not Taken](https://open.spotify.com/track/28eDLOPRRQUipJ7t4b06Nz) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Clé 2 : Yellow Wood](https://open.spotify.com/album/162XZSDZpr559n4iyLy8m5) | 1:35 | 2021-07-17 |  |
 | [ROCK (돌) ROCK](https://open.spotify.com/track/02gZBM6ZAxTYgyMpOdcTE6) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [I am NOT](https://open.spotify.com/album/5daUbxpeArCAUOJnHI7JIH) | 3:13 | 2021-07-17 |  |
+| [Scars](https://open.spotify.com/track/4C9Zhjq5ux9ieiDWYfFcfP) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Scars](https://open.spotify.com/album/3r5zRh7uNj1dvPVSUtzyvN) | 3:20 | 2021-10-05 |  |
 | [School Life](https://open.spotify.com/track/0k165ayrLWHRW4TYjsArx7) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Mixtape](https://open.spotify.com/album/2vkaB3rUSU7S59iqy2pbj4) | 3:36 | 2021-07-17 |  |
 | [Secret Secret](https://open.spotify.com/track/7A89GWdxMq1mXjjN3pFMKj) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [NOEASY](https://open.spotify.com/album/2CJBaCutKdBiFrWmdzioPS) | 3:29 | 2021-08-23 |  |
 | [Side Effects](https://open.spotify.com/track/1n0deeH4R7k0A5zENssBYc) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2020](https://open.spotify.com/album/4hk05fFLNquJc8w5htXZDi) | 3:15 | 2021-07-17 |  |

@@ -6,7 +6,7 @@ pretty - [cumulative](/playlists/cumulative/BTS%20X%20TXT%20X%20ENHYPEN.md) - [p
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [My Universe](https://open.spotify.com/track/7btzRuXC6Ed3rIyomBRkO2) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/6iVS1t7wQUHItUnCxH7epG) | 3:46 |
+| 1 | [My Universe](https://open.spotify.com/track/7btzRuXC6Ed3rIyomBRkO2) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/6iVS1t7wQUHItUnCxH7epG) | 3:48 |
 | 2 | [LO$ER=LO♡ER](https://open.spotify.com/track/21aOLk12MksET8AsbU0SI6) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FIGHT OR ESCAPE](https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5) | 3:19 |
 | 3 | [Butter (feat. Megan Thee Stallion)](https://open.spotify.com/track/3JR0ducCexKbeK47g6AHm5) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Butter (feat. Megan Thee Stallion)](https://open.spotify.com/album/4VmlZdGnrtNpiCJFXplGrP) | 2:44 |
 | 4 | [Billy Poco](https://open.spotify.com/track/2qxk6ZQyhE6OKHCG448nIt) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BILLY POCO](https://open.spotify.com/album/053egZ9MnXOGmLMQUiFPfZ) | 2:25 |

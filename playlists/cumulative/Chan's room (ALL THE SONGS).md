@@ -6,7 +6,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [+5 STAR+](https://open.spotify.com/track/1kS19ChQGwicssvOGh2w6M) | [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [+5 STAR+](https://open.spotify.com/album/0D5z2TURVGYlUrhwD5qEGP) | 3:20 | 2021-09-26 |  |
+| [+5 STAR+](https://open.spotify.com/track/1kS19ChQGwicssvOGh2w6M) | [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [+5 STAR+](https://open.spotify.com/album/0D5z2TURVGYlUrhwD5qEGP) | 3:20 | 2021-09-26 | 2021-10-06 |
 | [0%](https://open.spotify.com/track/0icOs4M7c2T5bcXJhkugww) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [Observe](https://open.spotify.com/album/07IjUwHMGJZvlWafbHg6Sm) | 3:16 | 2021-09-18 |  |
 | [1 to 10](https://open.spotify.com/track/5rzsyz15ulv7yJykUxRJrj) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : The Demon](https://open.spotify.com/album/3JX0hnu8b55RtbtEdUSYor) | 3:08 | 2021-08-10 |  |
 | [12:45 - Stripped](https://open.spotify.com/track/4edtsBlaX23OPYmhA4R0GP) | [Etham](https://open.spotify.com/artist/5fywYLnKJi950Y5yMqavxm) | [12:45 (Stripped)](https://open.spotify.com/album/0Tjtg0HRAovRk40NzgIwsv) | 2:59 | 2021-08-10 |  |
@@ -18,6 +18,7 @@
 | [2U (feat. Justin Bieber)](https://open.spotify.com/track/3A7qX2QjDlPnazUsRk5y0M) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [2U (feat. Justin Bieber)](https://open.spotify.com/album/1PZviVfBJJxNw5EtAwzdUu) | 3:14 | 2021-08-10 |  |
 | [30 Minutes Might Be Too Long](https://open.spotify.com/track/5e9Ybcfalhm8O6WsHbZuXX) | [Jun. K](https://open.spotify.com/artist/4m69UKabjuuaoayREZud9h) | [20 Minutes](https://open.spotify.com/album/1cJ9qdliZLI44QdWfKqNMn) | 3:22 | 2021-08-10 |  |
 | [3108](https://open.spotify.com/track/4Pty5kAaFSjQk2a5cLLpqK) | [Ha Hyunsang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [3108](https://open.spotify.com/album/4km6abn4iGxsbDnxuvFMrw) | 2:58 | 2021-08-10 |  |
+| [5 STAR](https://open.spotify.com/track/1kS19ChQGwicssvOGh2w6M) | [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [5 STAR](https://open.spotify.com/album/0D5z2TURVGYlUrhwD5qEGP) | 3:20 | 2021-10-06 |  |
 | [8 Letters](https://open.spotify.com/track/4zRZAmBQP8vhNPf9i9opXt) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [8 Letters](https://open.spotify.com/album/2qIbHfs93z6eDwGoAdCkXA) | 3:10 | 2021-08-10 |  |
 | [90's Love](https://open.spotify.com/track/0B36SbjfDv15ji1bQEEeTN) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [NCT RESONANCE Pt. 2 - The 2nd Album](https://open.spotify.com/album/3Bd1xSHPmhIEH97idB634s) | 3:33 | 2021-08-10 |  |
 | [A Million Dreams](https://open.spotify.com/track/0RoA7ObU6phWpqhlC9zH4Z) | [Ziv Zaifman](https://open.spotify.com/artist/2cQr2KbzdRtIFlfbHGnNsL), [Hugh Jackman](https://open.spotify.com/artist/5F1aoppMtU3OMiltO8ymJ2), [Michelle Williams](https://open.spotify.com/artist/2LAqcqAQ8KPTsl1HBgBrqM) | [The Greatest Showman (Original Motion Picture Soundtrack)](https://open.spotify.com/album/7ayBZIe1FHkNv0T5xFCX6F) | 4:29 | 2021-08-10 |  |

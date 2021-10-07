@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/Daily%20Mix%201.md) - [plain](/playl
 
 ### [Daily Mix 1](https://open.spotify.com/playlist/37i9dQZF1E3agfIzB3uiGU)
 
-> BTS, GD X TAEYANG, TOMORROW X TOGETHER and more
+> TOMORROW X TOGETHER, BTS, NCT 127 and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

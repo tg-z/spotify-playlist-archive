@@ -806,3 +806,4 @@ pretty - [cumulative](/playlists/cumulative/Chan's%20room%20(ALL%20THE%20SONGS).
 | 798 | [M.I.A.](https://open.spotify.com/track/0okF4ps9VeRQbEUYnImA1x) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2020](https://open.spotify.com/album/4hk05fFLNquJc8w5htXZDi) | 3:31 |
 | 799 | [Hellevator](https://open.spotify.com/track/6UDtY4939Z6p8gwuHhXb3g) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2020](https://open.spotify.com/album/4hk05fFLNquJc8w5htXZDi) | 3:59 |
 | 800 | [Star Lost](https://open.spotify.com/track/5NWI3uy93q5AzLNTQurZYO) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [NOEASY](https://open.spotify.com/album/2CJBaCutKdBiFrWmdzioPS) | 3:35 |
+| 801 | [Scars](https://open.spotify.com/track/4C9Zhjq5ux9ieiDWYfFcfP) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Scars](https://open.spotify.com/album/3r5zRh7uNj1dvPVSUtzyvN) | 3:20 |

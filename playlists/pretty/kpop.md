@@ -828,3 +828,4 @@ pretty - [cumulative](/playlists/cumulative/kpop.md) - [plain](/playlists/plain/
 | 820 | [Lip & Hip](https://open.spotify.com/track/5C2d3tz8WACjmw7T6TthQ2) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [Lip & Hip](https://open.spotify.com/album/01Dv8rPO2AvHogy6uDkb1t) | 3:29 |
 | 821 | [Eat You Up](https://open.spotify.com/track/3lrwnoggORNfLs0jiGqBhA) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Eat You Up](https://open.spotify.com/album/1lXXKmt06BzHY1GhfY836k) | 3:11 |
 | 822 | [Better](https://open.spotify.com/track/2k44rKotfi2k55hwwiCImN) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [BETTER - The 10th Album](https://open.spotify.com/album/3YXfuI3E6OxcrtXnjAgNkM) | 3:19 |
+| 823 | [Desperado](https://open.spotify.com/track/2f6FeSVRU7OINi0OLkeFqj) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [OFF DUTY](https://open.spotify.com/album/5bC4Moqxle03k5N2RbhVun) | 3:38 |

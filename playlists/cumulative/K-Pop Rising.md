@@ -2,7 +2,7 @@
 
 ### [K-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K-Pop hits! Cover: LUNA
+> Future K-Pop hits! Cover: TRI.BE
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -331,6 +331,7 @@
 | [Switch It Up (feat. sokodomo) - Prod. Cha Cha Malone](https://open.spotify.com/track/1m1ho1lkZHAGe7rv5K8Ift) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT), [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ) | [Switch It Up (feat. sokodomo) [Prod. Cha Cha Malone]](https://open.spotify.com/album/5mFDH66iKlo3pBjMSRxddK) | 3:35 | 2021-05-15 | 2021-07-14 |
 | [Switch to me (duet with JYP)](https://open.spotify.com/track/1LjhBbl5MvGz2rYcz5Fhgm) | [Rain](https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz) | [Switch to me (duet with JYP)](https://open.spotify.com/album/3XnNc5DV6LdZODUjV3YJVp) | 3:17 | 2020-12-31 | 2021-03-01 |
 | [TAIL](https://open.spotify.com/track/7muTXW7kGytN3zdomku6FV) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [TAIL](https://open.spotify.com/album/6N8gHTBafJrVn0tcn9AKqz) | 3:10 | 2021-02-23 | 2021-05-18 |
+| [Tamed-Dashed](https://open.spotify.com/track/1zoyteFQmeUUqyOl2Xznpy) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : DILEMMA](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) | 3:16 | 2021-10-12 |  |
 | [TEAMO](https://open.spotify.com/track/54J9MTzvuomk0V78FBDTXR) | [MINZY](https://open.spotify.com/artist/1ql28OzmgulHG2ldXFrbWp) | [TEAMO](https://open.spotify.com/album/4b744AKQ78M5SBdo7Wxzm5) | 3:08 | 2021-07-16 | 2021-09-06 |
 | [Tear Drop](https://open.spotify.com/track/5T6UFJ0AtAU7gXGybQ0HH7) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [TURN OVER](https://open.spotify.com/album/5zt8nriwNFRlrZD3Gi4NRI) | 3:17 | 2021-07-05 | 2021-09-06 |
 | [Thank U](https://open.spotify.com/track/2FqZjsvLrqiQF5CpCOSY7i) | [U-KNOW](https://open.spotify.com/artist/4lqxrwkJ16gYkKNumLA3SL) | [NOIR - The 2nd Mini Album](https://open.spotify.com/album/1mxgEueuASm9eoOZdYOoHZ) | 3:10 | 2021-01-18 | 2021-03-18 |
@@ -386,6 +387,7 @@
 | [Will Make a Mistake](https://open.spotify.com/track/0jdT8lnzPWFKjI5iuIxDjQ) | [BLITZERS](https://open.spotify.com/artist/3Exoh42YMeqnUvYahAGgUE) | [SEAT-BELT](https://open.spotify.com/album/1Z1nMx8QglGa8tQFerndsg) | 3:18 | 2021-10-12 |  |
 | [Wings](https://open.spotify.com/track/12jfNawkTUb40C0iQ46u3W) | [PIXY](https://open.spotify.com/artist/0CJkEzffVZLgav03xXeC9s) | [Wings](https://open.spotify.com/album/4knaQg3CtzHlA2m99NS7xW) | 3:33 | 2021-03-18 | 2021-06-09 |
 | [WOLFGANG](https://open.spotify.com/track/5520a7iiRxB9bjf6mc7TyS) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [KINGDOM <FINAL : WHO IS THE KING?>](https://open.spotify.com/album/3n1NaviPQXfiVQ0TarnAf4) | 3:10 | 2021-06-09 | 2021-09-06 |
+| [WOULD YOU RUN](https://open.spotify.com/track/1PyRHSdxEZgJpN3vWSGNFw) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [VENI VIDI VICI](https://open.spotify.com/album/3mQBrnm5x439zf6Fa5Zhic) | 3:24 | 2021-10-12 |  |
 | [X](https://open.spotify.com/track/5FOnZ5yGWaKk0bxHOigYQk) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [X](https://open.spotify.com/album/4j6uSkOxQV2KKuSiGOQCHD) | 4:15 | 2021-01-21 | 2021-05-05 |
 | [Xtra](https://open.spotify.com/track/4btftV9aaDSaw0sPBr5VsZ) | [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU) | [ReviveR](https://open.spotify.com/album/2M9w0Fjim2sLzuFj0EZ4l8) | 3:00 | 2021-07-02 | 2021-08-10 |
 | [Yeonnam-dong (feat. lIlBOI)](https://open.spotify.com/track/0A6CcQQ6Sa9MWqgjoSD8dL) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b), [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved) | [it’s not your fault](https://open.spotify.com/album/1U0HUoza6VIPzqMIQL2BOw) | 3:32 | 2021-05-05 | 2021-06-09 |

@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/This%20Is%20BTS.md) - [plain](/playl
 
 ### [This Is BTS](https://open.spotify.com/playlist/37i9dQZF1DX08mhnhv6g9b)
 
-> Did you get a Permission to Dance? A.R.M.Y is unbeatable💜  
+> Welcome to the BTS's Universe. A.R.M.Y is unbeatable💜  
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

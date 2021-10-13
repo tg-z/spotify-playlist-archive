@@ -6,7 +6,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Little Space (feat. YUNHO, SAN, JONGHO of ATEEZ)](https://open.spotify.com/track/624r3MZSDeOFP2Ciizhxja) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53), [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [A Little Space (feat. YUNHO, SAN, JONGHO of ATEEZ)](https://open.spotify.com/album/4SXsvcrYpEi6NYfjv2qIjA) | 2:54 | 2021-08-23 |  |
+| [A Little Space (feat. YUNHO, SAN, JONGHO of ATEEZ)](https://open.spotify.com/track/624r3MZSDeOFP2Ciizhxja) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53), [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [A Little Space (feat. YUNHO, SAN, JONGHO of ATEEZ)](https://open.spotify.com/album/4SXsvcrYpEi6NYfjv2qIjA) | 2:54 | 2021-08-23 | 2021-10-13 |
 | [All About You](https://open.spotify.com/track/4bamfTJc0GuUDYnc3fj6zH) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.3](https://open.spotify.com/album/5ozaWoYQScjFzGODcJmy3G) | 2:56 | 2021-09-15 |  |
 | [Answer](https://open.spotify.com/track/3IdPtyJHB1WVPM4eCiCAKM) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EPILOGUE : Action To Answer](https://open.spotify.com/album/3TTkDOcSzRQCvGMT7VmmPE) | 3:39 | 2021-07-17 |  |
 | [Aurora](https://open.spotify.com/track/2J8tamzlBEX2DWLx9ASTvS) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.3: One To All](https://open.spotify.com/album/4Y8cigF15iNUSV1dhlQqRg) | 3:24 | 2021-07-17 |  |
@@ -58,6 +58,6 @@
 | [Twilight](https://open.spotify.com/track/5s5TNGxkKh3FufBOdGsIlM) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.1: All to Zero](https://open.spotify.com/album/4ayTucmOGwLd0WrJddrUwx) | 3:44 | 2021-07-17 |  |
 | [Utopia](https://open.spotify.com/track/3OnnEFB9kauV7O20nOCWpg) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.3: One To All](https://open.spotify.com/album/4Y8cigF15iNUSV1dhlQqRg) | 3:59 | 2021-07-17 |  |
 | [Wave](https://open.spotify.com/track/28xjm4FnnGI4Xnds7VoNSl) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.3: One To All](https://open.spotify.com/album/4Y8cigF15iNUSV1dhlQqRg) | 3:23 | 2021-07-17 |  |
-| [White Love](https://open.spotify.com/track/3HVfAODNZoFHLOegytXJz9) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Season Songs](https://open.spotify.com/album/7o5jeWeyGW3Nb77WhmVPwJ) | 3:17 | 2021-08-25 | 2021-10-10 |
+| [White Love](https://open.spotify.com/track/3HVfAODNZoFHLOegytXJz9) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Season Songs](https://open.spotify.com/album/7o5jeWeyGW3Nb77WhmVPwJ) | 3:17 | 2021-08-25 |  |
 | [WIN](https://open.spotify.com/track/6iaVgWHDlYxjjvj3PuKSQX) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.FIN: All To Action](https://open.spotify.com/album/4HGhzqQEY1X6WWZw6MhjlO) | 3:22 | 2021-07-17 |  |
 | [WONDERLAND](https://open.spotify.com/track/6k67RdkVjTZj79c1cRz7IQ) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.FIN: All To Action](https://open.spotify.com/album/4HGhzqQEY1X6WWZw6MhjlO) | 3:19 | 2021-07-17 |  |

@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/Daily%20Mix%202.md) - [plain](/playl
 
 ### [Daily Mix 2](https://open.spotify.com/playlist/37i9dQZF1E3aaY83eVbisn)
 
-> Team P NATION, TAEMIN, SHINee and more
+> SHINee, EXO, JONGHYUN and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
